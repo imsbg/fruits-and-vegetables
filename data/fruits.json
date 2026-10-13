@@ -100,7 +100,7 @@
     "scientificName": "Cocos nucifera (Tender)",
     "category": "ଫଳ",
     "image": "https://imsbg.github.io/animals/images/fruits/green_coconut.webp",
-    "odiaName": "ପୋଇଡ଼ / ପଇଡ଼",
+    "odiaName": "ପଇଡ଼",
     "profileDetails": "/fruits/green_coconut.json"
   },
   {
@@ -112,12 +112,12 @@
     "profileDetails": "/fruits/lemon.json"
   },
   {
-    "name": "Sweet Lime",
+    "name": "Tropical Lime",
     "scientificName": "Citrus limettioides",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/sweet_lime.webp",
-    "odiaName": "ମୌସୁମୀ",
-    "profileDetails": "/fruits/sweet_lime.json"
+    "image": "https://imsbg.github.io/animals/images/fruits/tropical_lime.webp",
+    "odiaName": "କାନ୍ଧିଆ",
+    "profileDetails": "/fruits/tropical_lime.json"
   },
   {
     "name": "Pear",
