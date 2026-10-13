@@ -136,12 +136,12 @@
     "profileDetails": "/fruits/peach.json"
   },
   {
-    "name": "Black Plum / Blackberry",
+    "name": "Bluekberry",
     "scientificName": "Syzygium cumini",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/black_plum.webp",
+    "image": "https://imsbg.github.io/animals/images/fruits/blueberry.webp",
     "odiaName": "ଜାମୁକୋଳି / ଜାମୁ",
-    "profileDetails": "/fruits/black_plum.json"
+    "profileDetails": "/fruits/blueberry.json"
   },
   {
     "name": "Jujube / Indian Plum",
