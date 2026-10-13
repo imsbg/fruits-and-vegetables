@@ -164,7 +164,7 @@
     "scientificName": "Limonia acidissima",
     "category": "ଫଳ",
     "image": "https://imsbg.github.io/animals/images/fruits/wood_apple.webp",
-    "odiaName": "କଇଠ",
+    "odiaName": "କଇଁଥ ",
     "profileDetails": "/fruits/wood_apple.json"
   },
   {
@@ -208,38 +208,6 @@
     "profileDetails": "/fruits/tamarind.json"
   },
   {
-    "name": "Wild Fig",
-    "scientificName": "Ficus racemosa",
-    "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/wild_fig.webp",
-    "odiaName": "ଡିମିରି",
-    "profileDetails": "/fruits/wild_fig.json"
-  },
-  {
-    "name": "Muskmelon",
-    "scientificName": "Cucumis melo",
-    "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/muskmelon.webp",
-    "odiaName": "ଖରଭୁଜ / ଫୁଟି",
-    "profileDetails": "/fruits/muskmelon.json"
-  },
-  {
-    "name": "Pomelo / Shaddock",
-    "scientificName": "Citrus maxima",
-    "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/pomelo.webp",
-    "odiaName": "ବାତାପି",
-    "profileDetails": "/fruits/pomelo.json"
-  },
-  {
-    "name": "Rose Apple / Water Apple",
-    "scientificName": "Syzygium jambos",
-    "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/rose_apple.webp",
-    "odiaName": "ଗୋଲାପଜାମୁ / ଜାମୁରୋଳ",
-    "profileDetails": "/fruits/rose_apple.json"
-  },
-  {
     "name": "Sugarcane",
     "scientificName": "Saccharum officinarum",
     "category": "ଫଳ",
@@ -252,7 +220,7 @@
     "scientificName": "Anacardium occidentale",
     "category": "ଶୁଷ୍କ ଫଳ",
     "image": "https://imsbg.github.io/animals/images/fruits/cashew.webp",
-    "odiaName": "କାଜୁ / ଲଙ୍କାଆମ୍ବ",
+    "odiaName": "କାଜୁ",
     "profileDetails": "/fruits/cashew.json"
   },
   {
@@ -260,7 +228,7 @@
     "scientificName": "Prunus dulcis",
     "category": "ଶୁଷ୍କ ଫଳ",
     "image": "https://imsbg.github.io/animals/images/fruits/almond.webp",
-    "odiaName": "ବାଦାମ",
+    "odiaName": "ପିସ୍ତା ବାଦାମ",
     "profileDetails": "/fruits/almond.json"
   },
   {
@@ -268,7 +236,7 @@
     "scientificName": "Arachis hypogaea",
     "category": "ଶୁଷ୍କ ଫଳ",
     "image": "https://imsbg.github.io/animals/images/fruits/peanut.webp",
-    "odiaName": "ଚିନାବାଦାମ",
+    "odiaName": "ଚିନାବାଦାମ / ବାଦାମ",
     "profileDetails": "/fruits/peanut.json"
   },
   {
