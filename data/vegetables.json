@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Potato",
+    "scientificName": "Solanum tuberosum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/potato.webp",
+    "odiaName": "ଆଳୁ",
+    "profileDetails": "/vegetables/potato.json"
+  },
+  {
+    "name": "Brinjal",
+    "scientificName": "Solanum melongena",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/brinjal.webp",
+    "odiaName": "ବାଇଗଣ",
+    "profileDetails": "/vegetables/brinjal.json"
+  },
+  {
+    "name": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/tomato.webp",
+    "odiaName": "ଟମାଟୋ / ବିଲାତି ବାଇଗଣ",
+    "profileDetails": "/vegetables/tomato.json"
+  },
+  {
+    "name": "Cauliflower",
+    "scientificName": "Brassica oleracea var. botrytis",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/cauliflower.webp",
+    "odiaName": "ଫୁଲକୋବି",
+    "profileDetails": "/vegetables/cauliflower.json"
+  },
+  {
+    "name": "Cabbage",
+    "scientificName": "Brassica oleracea var. capitata",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/cabbage.webp",
+    "odiaName": "ବନ୍ଧାକୋବି",
+    "profileDetails": "/vegetables/cabbage.json"
+  },
+  {
+    "name": "Ladyfinger",
+    "scientificName": "Abelmoschus esculentus",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/ladyfinger.webp",
+    "odiaName": "ଭେଣ୍ଡି",
+    "profileDetails": "/vegetables/ladyfinger.json"
+  },
+  {
+    "name": "Bitter Gourd",
+    "scientificName": "Momordica charantia",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/bitter_gourd.webp",
+    "odiaName": "କଲରା",
+    "profileDetails": "/vegetables/bitter_gourd.json"
+  },
+  {
+    "name": "Pointed Gourd",
+    "scientificName": "Trichosanthes dioica",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/pointed_gourd.webp",
+    "odiaName": "ପୋଟଳ",
+    "profileDetails": "/vegetables/pointed_gourd.json"
+  },
+  {
+    "name": "Arum / Taro root",
+    "scientificName": "Colocasia esculenta",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/taro_root.webp",
+    "odiaName": "ସାରୁ",
+    "profileDetails": "/vegetables/taro_root.json"
+  },
+  {
+    "name": "Sweet Potato",
+    "scientificName": "Ipomoea batatas",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/sweet_potato.webp",
+    "odiaName": "କନ୍ଦମୂଳ",
+    "profileDetails": "/vegetables/sweet_potato.json"
+  },
+  {
+    "name": "Yam",
+    "scientificName": "Dioscorea alata",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/yam.webp",
+    "odiaName": "ମାଟି ବା ଦେଶୀ ଆଳୁ",
+    "profileDetails": "/vegetables/yam.json"
+  },
+  {
+    "name": "Elephant Foot Yam",
+    "scientificName": "Amorphophallus paeoniifolius",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/elephant_foot_yam.webp",
+    "odiaName": "ଉଲ",
+    "profileDetails": "/vegetables/elephant_foot_yam.json"
+  },
+  {
+    "name": "Turnip",
+    "scientificName": "Brassica rapa subsp. rapa",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/turnip.webp",
+    "odiaName": "ଉଲ କୋବି",
+    "profileDetails": "/vegetables/turnip.json"
+  },
+  {
+    "name": "Ridge Gourd",
+    "scientificName": "Luffa acutangula",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/ridge_gourd.webp",
+    "odiaName": "ଜହ୍ନି",
+    "profileDetails": "/vegetables/ridge_gourd.json"
+  },
+  {
+    "name": "Snake Gourd",
+    "scientificName": "Trichosanthes cucumerina",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/snake_gourd.webp",
+    "odiaName": "ଛଚିନ୍ଦ୍ରା",
+    "profileDetails": "/vegetables/snake_gourd.json"
+  },
+  {
+    "name": "Spine Gourd",
+    "scientificName": "Momordica dioica",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/spine_gourd.webp",
+    "odiaName": "କାଙ୍କଡ଼",
+    "profileDetails": "/vegetables/spine_gourd.json"
+  },
+  {
+    "name": "Ivy Gourd",
+    "scientificName": "Coccinia grandis",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/ivy_gourd.webp",
+    "odiaName": "କୁନ୍ଦୁରି",
+    "profileDetails": "/vegetables/ivy_gourd.json"
+  },
+  {
+    "name": "Bottle Gourd",
+    "scientificName": "Lagenaria siceraria",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/bottle_gourd.webp",
+    "odiaName": "ଲଉ / ଲାଉ",
+    "profileDetails": "/vegetables/bottle_gourd.json"
+  },
+  {
+    "name": "Ash Gourd",
+    "scientificName": "Benincasa hispida",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/ash_gourd.webp",
+    "odiaName": "ପାଣି କଖାରୁ",
+    "profileDetails": "/vegetables/ash_gourd.json"
+  },
+  {
+    "name": "Red Pumpkin",
+    "scientificName": "Cucurbita moschata",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/red_pumpkin.webp",
+    "odiaName": "ବୋଇତି କଖାରୁ",
+    "profileDetails": "/vegetables/red_pumpkin.json"
+  },
+  {
+    "name": "Pumpkin",
+    "scientificName": "Cucurbita pepo",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/pumpkin.webp",
+    "odiaName": "କଖାରୁ",
+    "profileDetails": "/vegetables/pumpkin.json"
+  },
+  {
+    "name": "Drumstick",
+    "scientificName": "Moringa oleifera",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/drumstick.webp",
+    "odiaName": "ସଜନା ଛୁଇଁ",
+    "profileDetails": "/vegetables/drumstick.json"
+  },
+  {
+    "name": "Radish",
+    "scientificName": "Raphanus sativus",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/radish.webp",
+    "odiaName": "ମୂଳା",
+    "profileDetails": "/vegetables/radish.json"
+  },
+  {
+    "name": "Green Peas",
+    "scientificName": "Pisum sativum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/green_peas.webp",
+    "odiaName": "ମଟର / ମଟର ଛୁଇଁ",
+    "profileDetails": "/vegetables/green_peas.json"
+  },
+  {
+    "name": "Hyacinth Beans",
+    "scientificName": "Lablab purpureus",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/hyacinth_beans.webp",
+    "odiaName": "ସିମ୍ବ / ଶିମ୍ୱ",
+    "profileDetails": "/vegetables/hyacinth_beans.json"
+  },
+  {
+    "name": "Malabar Spinach",
+    "scientificName": "Basella alba",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/malabar_spinach.webp",
+    "odiaName": "ପୋଇ",
+    "profileDetails": "/vegetables/malabar_spinach.json"
+  },
+  {
+    "name": "Amaranth Leaf",
+    "scientificName": "Amaranthus cruentus",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/amaranth_leaf.webp",
+    "odiaName": "ଖଡ଼ା / ଖାଡା ଶାଗ",
+    "profileDetails": "/vegetables/amaranth_leaf.json"
+  },
+  {
+    "name": "Amaranth Tender",
+    "scientificName": "Amaranthus viridis",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/amaranth_tender.webp",
+    "odiaName": "ଲେଉଟିଆ",
+    "profileDetails": "/vegetables/amaranth_tender.json"
+  },
+  {
+    "name": "Onion",
+    "scientificName": "Allium cepa",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/onion.webp",
+    "odiaName": "ପିଆଜ",
+    "profileDetails": "/vegetables/onion.json"
+  },
+  {
+    "name": "Garlic",
+    "scientificName": "Allium sativum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/garlic.webp",
+    "odiaName": "ରସୁଣ",
+    "profileDetails": "/vegetables/garlic.json"
+  },
+  {
+    "name": "Ginger",
+    "scientificName": "Zingiber officinale",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/ginger.webp",
+    "odiaName": "ଅଦା",
+    "profileDetails": "/vegetables/ginger.json"
+  },
+  {
+    "name": "Coriander Leaves",
+    "scientificName": "Coriandrum sativum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/coriander.webp",
+    "odiaName": "ଧନିଆ ପତ୍ର",
+    "profileDetails": "/vegetables/coriander.json"
+  },
+  {
+    "name": "Elephant Apple",
+    "scientificName": "Dillenia indica",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/elephant_apple.webp",
+    "odiaName": "ଓଉ",
+    "profileDetails": "/vegetables/elephant_apple.json"
+  },
+  {
+    "name": "Beetroot",
+    "scientificName": "Beta vulgaris",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/beetroot.webp",
+    "odiaName": "ବିଟ୍",
+    "profileDetails": "/vegetables/beetroot.json"
+  },
+  {
+    "name": "Chilli",
+    "scientificName": "Capsicum annuum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/chilli.webp",
+    "odiaName": "ଲଙ୍କା",
+    "profileDetails": "/vegetables/chilli.json"
+  },
+  {
+    "name": "Green Jackfruit",
+    "scientificName": "Artocarpus heterophyllus",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/green_jackfruit.webp",
+    "odiaName": "ପଣସ କଠା",
+    "profileDetails": "/vegetables/green_jackfruit.json"
+  },
+  {
+    "name": "Spinach",
+    "scientificName": "Spinacia oleracea",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/spinach.webp",
+    "odiaName": "ପାଳଙ୍ଗ ଶାଗ",
+    "profileDetails": "/vegetables/spinach.json"
+  },
+  {
+    "name": "Fenugreek Leaves",
+    "scientificName": "Trigonella foenum-graecum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/fenugreek_leaves.webp",
+    "odiaName": "ମେଥି ଶାଗ",
+    "profileDetails": "/vegetables/fenugreek_leaves.json"
+  },
+  {
+    "name": "Mint Leaf",
+    "scientificName": "Mentha",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/mint_leaf.webp",
+    "odiaName": "ପୋଦିନାପତ୍ର",
+    "profileDetails": "/vegetables/mint_leaf.json"
+  },
+  {
+    "name": "Curry Leaf",
+    "scientificName": "Murraya koenigii",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/curry_leaf.webp",
+    "odiaName": "ଭୃସଙ୍ଗ ପତ୍ର",
+    "profileDetails": "/vegetables/curry_leaf.json"
+  },
+  {
+    "name": "Corn",
+    "scientificName": "Zea mays",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/corn.webp",
+    "odiaName": "ମକା",
+    "profileDetails": "/vegetables/corn.json"
+  },
+  {
+    "name": "Pith of Plantain Tree",
+    "scientificName": "Musa paradisiaca",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/plantain_pith.webp",
+    "odiaName": "ମଞ୍ଜା",
+    "profileDetails": "/vegetables/plantain_pith.json"
+  },
+  {
+    "name": "Capsicum",
+    "scientificName": "Capsicum annuum grossum",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/capsicum.webp",
+    "odiaName": "ଶିମଳା ଲଙ୍କା",
+    "profileDetails": "/vegetables/capsicum.json"
+  },
+  {
+    "name": "French Beans",
+    "scientificName": "Phaseolus vulgaris",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/beans.webp",
+    "odiaName": "ବିନ୍",
+    "profileDetails": "/vegetables/beans.json"
+  },
+  {
+    "name": "Long Beans / Yardlong Bean",
+    "scientificName": "Vigna unguiculata subsp. sesquipedalis",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/long_beans.webp",
+    "odiaName": "ଝୁଡ଼ଙ୍ଗ",
+    "profileDetails": "/vegetables/long_beans.json"
+  },
+  {
+    "name": "Cluster Beans",
+    "scientificName": "Cyamopsis tetragonoloba",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/cluster_beans.webp",
+    "odiaName": "ଗୁଆଁର",
+    "profileDetails": "/vegetables/cluster_beans.json"
+  },
+  {
+    "name": "Mushroom",
+    "scientificName": "Agaricus bisporus",
+    "category": "ପରିବା",
+    "image": "https://imsbg.github.io/animals/images/mushroom.webp",
+    "odiaName": "ଛତୁ",
+    "profileDetails": "/vegetables/mushroom.json"
+  }
+]
