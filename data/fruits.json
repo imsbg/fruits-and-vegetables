@@ -3,7 +3,7 @@
     "name": "Mango",
     "scientificName": "Mangifera indica",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/mango.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/mango.webp",
     "odiaName": "ଆମ୍ବ",
     "profileDetails": "/fruits/mango.json"
   },
@@ -11,7 +11,7 @@
     "name": "Banana",
     "scientificName": "Musa acuminata",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/banana.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/banana.webp",
     "odiaName": "କଦଳୀ",
     "profileDetails": "/fruits/banana.json"
   },
@@ -19,7 +19,7 @@
     "name": "Apple",
     "scientificName": "Malus domestica",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/apple.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/apple.webp",
     "odiaName": "ସେଓ",
     "profileDetails": "/fruits/apple.json"
   },
@@ -27,7 +27,7 @@
     "name": "Papaya",
     "scientificName": "Carica papaya",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/papaya.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/papaya.webp",
     "odiaName": "ଅମୃତଭଣ୍ଡା",
     "profileDetails": "/fruits/papaya.json"
   },
@@ -35,7 +35,7 @@
     "name": "Pomegranate",
     "scientificName": "Punica granatum",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/pomegranate.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pomegranate.webp",
     "odiaName": "ଡାଳିମ୍ବ",
     "profileDetails": "/fruits/pomegranate.json"
   },
@@ -43,7 +43,7 @@
     "name": "Guava",
     "scientificName": "Psidium guajava",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/guava.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/guava.webp",
     "odiaName": "ପିଜୁଳି",
     "profileDetails": "/fruits/guava.json"
   },
@@ -51,7 +51,7 @@
     "name": "Orange",
     "scientificName": "Citrus sinensis",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/orange.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/orange.webp",
     "odiaName": "କମଳା",
     "profileDetails": "/fruits/orange.json"
   },
@@ -59,7 +59,7 @@
     "name": "Pineapple",
     "scientificName": "Ananas comosus",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/pineapple.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pineapple.webp",
     "odiaName": "ସପୁରୀ",
     "profileDetails": "/fruits/pineapple.json"
   },
@@ -67,7 +67,7 @@
     "name": "Watermelon",
     "scientificName": "Citrullus lanatus",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/watermelon.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/watermelon.webp",
     "odiaName": "ତରଭୁଜ",
     "profileDetails": "/fruits/watermelon.json"
   },
@@ -75,7 +75,7 @@
     "name": "Jackfruit",
     "scientificName": "Artocarpus heterophyllus",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/jackfruit.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/jackfruit.webp",
     "odiaName": "ପଣସ",
     "profileDetails": "/fruits/jackfruit.json"
   },
@@ -83,7 +83,7 @@
     "name": "Grapes",
     "scientificName": "Vitis vinifera",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/grapes.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/grapes.webp",
     "odiaName": "ଅଙ୍ଗୁର",
     "profileDetails": "/fruits/grapes.json"
   },
@@ -91,7 +91,7 @@
     "name": "Coconut",
     "scientificName": "Cocos nucifera",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/coconut.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/coconut.webp",
     "odiaName": "ନଡ଼ିଆ",
     "profileDetails": "/fruits/coconut.json"
   },
@@ -99,7 +99,7 @@
     "name": "Green Coconut",
     "scientificName": "Cocos nucifera (Tender)",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/green_coconut.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/green_coconut.webp",
     "odiaName": "ପଇଡ଼",
     "profileDetails": "/fruits/green_coconut.json"
   },
@@ -107,7 +107,7 @@
     "name": "Lemon / Lime",
     "scientificName": "Citrus limon",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/lemon.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/lemon.webp",
     "odiaName": "ଲେମ୍ବୁ",
     "profileDetails": "/fruits/lemon.json"
   },
@@ -115,7 +115,7 @@
     "name": "Tropical Lime",
     "scientificName": "Citrus limettioides",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/tropical_lime.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/tropical_lime.webp",
     "odiaName": "କାନ୍ଧିଆ",
     "profileDetails": "/fruits/tropical_lime.json"
   },
@@ -123,7 +123,7 @@
     "name": "Pear",
     "scientificName": "Pyrus communis",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/pear.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pear.webp",
     "odiaName": "ନାସପାତି",
     "profileDetails": "/fruits/pear.json"
   },
@@ -131,7 +131,7 @@
     "name": "Peach",
     "scientificName": "Prunus persica",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/peach.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/peach.webp",
     "odiaName": "ପିଚ୍ ଫଳ",
     "profileDetails": "/fruits/peach.json"
   },
@@ -139,7 +139,7 @@
     "name": "Bluekberry",
     "scientificName": "Syzygium cumini",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/blueberry.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/blueberry.webp",
     "odiaName": "ଜାମୁକୋଳି / ଜାମୁ",
     "profileDetails": "/fruits/blueberry.json"
   },
@@ -147,7 +147,7 @@
     "name": "Jujube / Indian Plum",
     "scientificName": "Ziziphus mauritiana",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/jujube.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/jujube.webp",
     "odiaName": "ବରକୋଳି / କୋଳି",
     "profileDetails": "/fruits/jujube.json"
   },
@@ -155,7 +155,7 @@
     "name": "Custard Apple",
     "scientificName": "Annona squamosa",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/custard_apple.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/custard_apple.webp",
     "odiaName": "ଆତ",
     "profileDetails": "/fruits/custard_apple.json"
   },
@@ -163,7 +163,7 @@
     "name": "Wood Apple",
     "scientificName": "Limonia acidissima",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/wood_apple.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/wood_apple.webp",
     "odiaName": "କଇଁଥ ",
     "profileDetails": "/fruits/wood_apple.json"
   },
@@ -171,7 +171,7 @@
     "name": "Stone Apple / Bael",
     "scientificName": "Aegle marmelos",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/bael.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/bael.webp",
     "odiaName": "ବେଲ",
     "profileDetails": "/fruits/bael.json"
   },
@@ -179,7 +179,7 @@
     "name": "Hog Plum",
     "scientificName": "Spondias mombin",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/hog_plum.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/hog_plum.webp",
     "odiaName": "ଅମ୍ବାଡ଼",
     "profileDetails": "/fruits/hog_plum.json"
   },
@@ -187,7 +187,7 @@
     "name": "Star Fruit / Carambola",
     "scientificName": "Averrhoa carambola",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/star_fruit.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/star_fruit.webp",
     "odiaName": "କରମଙ୍ଗା",
     "profileDetails": "/fruits/star_fruit.json"
   },
@@ -195,7 +195,7 @@
     "name": "Palmyra Palm Fruit / Ice Apple",
     "scientificName": "Borassus flabellifer",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/palmyra_palm.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/palmyra_palm.webp",
     "odiaName": "ତାଳ",
     "profileDetails": "/fruits/palmyra_palm.json"
   },
@@ -203,7 +203,7 @@
     "name": "Tamarind",
     "scientificName": "Tamarindus indica",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/tamarind.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/tamarind.webp",
     "odiaName": "ତେନ୍ତୁଳି",
     "profileDetails": "/fruits/tamarind.json"
   },
@@ -211,7 +211,7 @@
     "name": "Sugarcane",
     "scientificName": "Saccharum officinarum",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/sugarcane.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/sugarcane.webp",
     "odiaName": "ଆଖୁ",
     "profileDetails": "/fruits/sugarcane.json"
   },
@@ -219,7 +219,7 @@
     "name": "Cashew Nut",
     "scientificName": "Anacardium occidentale",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/cashew.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/cashew.webp",
     "odiaName": "କାଜୁ",
     "profileDetails": "/fruits/cashew.json"
   },
@@ -227,7 +227,7 @@
     "name": "Almond",
     "scientificName": "Prunus dulcis",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/almond.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/almond.webp",
     "odiaName": "ପିସ୍ତା ବାଦାମ",
     "profileDetails": "/fruits/almond.json"
   },
@@ -235,7 +235,7 @@
     "name": "Peanut / Groundnut",
     "scientificName": "Arachis hypogaea",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/peanut.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/peanut.webp",
     "odiaName": "ଚିନାବାଦାମ / ବାଦାମ",
     "profileDetails": "/fruits/peanut.json"
   },
@@ -243,7 +243,7 @@
     "name": "Dates",
     "scientificName": "Phoenix dactylifera",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/dates.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/dates.webp",
     "odiaName": "ଖଜୁରୀ",
     "profileDetails": "/fruits/dates.json"
   },
@@ -251,7 +251,7 @@
     "name": "Raisins",
     "scientificName": "Vitis vinifera (Dried)",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/raisins.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/raisins.webp",
     "odiaName": "କିସମିସ",
     "profileDetails": "/fruits/raisins.json"
   },
@@ -259,7 +259,7 @@
     "name": "Walnut",
     "scientificName": "Juglans regia",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/walnut.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/walnut.webp",
     "odiaName": "ଆଖରୋଟ",
     "profileDetails": "/fruits/walnut.json"
   },
@@ -267,7 +267,7 @@
     "name": "Pistachio",
     "scientificName": "Pistacia vera",
     "category": "ଶୁଷ୍କ ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/pistachio.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pistachio.webp",
     "odiaName": "ପେସ୍ତା",
     "profileDetails": "/fruits/pistachio.json"
   },
@@ -275,7 +275,7 @@
     "name": "Betel Nut",
     "scientificName": "Areca catechu",
     "category": "ଫଳ",
-    "image": "https://imsbg.github.io/animals/images/fruits/betel_nut.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/betel_nut.webp",
     "odiaName": "ଗୁଆ",
     "profileDetails": "/fruits/betel_nut.json"
   }
