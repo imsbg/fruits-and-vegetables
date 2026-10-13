@@ -84,7 +84,7 @@
     "scientificName": "Dioscorea alata",
     "category": "ପରିବା",
     "image": "https://imsbg.github.io/animals/images/yam.webp",
-    "odiaName": "ମାଟି ବା ଦେଶୀ ଆଳୁ",
+    "odiaName": "ଖମ୍ବ ଆଳୁ",
     "profileDetails": "/vegetables/yam.json"
   },
   {
@@ -92,7 +92,7 @@
     "scientificName": "Amorphophallus paeoniifolius",
     "category": "ପରିବା",
     "image": "https://imsbg.github.io/animals/images/elephant_foot_yam.webp",
-    "odiaName": "ଉଲ",
+    "odiaName": "ଉଲୁଅ",
     "profileDetails": "/vegetables/elephant_foot_yam.json"
   },
   {
@@ -140,7 +140,7 @@
     "scientificName": "Lagenaria siceraria",
     "category": "ପରିବା",
     "image": "https://imsbg.github.io/animals/images/bottle_gourd.webp",
-    "odiaName": "ଲଉ / ଲାଉ",
+    "odiaName": "ଲାଉ",
     "profileDetails": "/vegetables/bottle_gourd.json"
   },
   {
@@ -150,14 +150,6 @@
     "image": "https://imsbg.github.io/animals/images/ash_gourd.webp",
     "odiaName": "ପାଣି କଖାରୁ",
     "profileDetails": "/vegetables/ash_gourd.json"
-  },
-  {
-    "name": "Red Pumpkin",
-    "scientificName": "Cucurbita moschata",
-    "category": "ପରିବା",
-    "image": "https://imsbg.github.io/animals/images/red_pumpkin.webp",
-    "odiaName": "ବୋଇତି କଖାରୁ",
-    "profileDetails": "/vegetables/red_pumpkin.json"
   },
   {
     "name": "Pumpkin",
@@ -211,8 +203,8 @@
     "name": "Amaranth Leaf",
     "scientificName": "Amaranthus cruentus",
     "category": "ପରିବା",
-    "image": "https://imsbg.github.io/animals/images/amaranth_leaf.webp",
-    "odiaName": "ଖଡ଼ା / ଖାଡା ଶାଗ",
+    "image": "https://imsbg.github.io/animals/images/amaranth_leaff.webp",
+    "odiaName": "ଖଡ଼ା ଶାଗ",
     "profileDetails": "/vegetables/amaranth_leaf.json"
   },
   {
@@ -278,14 +270,6 @@
     "image": "https://imsbg.github.io/animals/images/chilli.webp",
     "odiaName": "ଲଙ୍କା",
     "profileDetails": "/vegetables/chilli.json"
-  },
-  {
-    "name": "Green Jackfruit",
-    "scientificName": "Artocarpus heterophyllus",
-    "category": "ପରିବା",
-    "image": "https://imsbg.github.io/animals/images/green_jackfruit.webp",
-    "odiaName": "ପଣସ କଠା",
-    "profileDetails": "/vegetables/green_jackfruit.json"
   },
   {
     "name": "Spinach",
@@ -366,13 +350,5 @@
     "image": "https://imsbg.github.io/animals/images/cluster_beans.webp",
     "odiaName": "ଗୁଆଁର",
     "profileDetails": "/vegetables/cluster_beans.json"
-  },
-  {
-    "name": "Mushroom",
-    "scientificName": "Agaricus bisporus",
-    "category": "ପରିବା",
-    "image": "https://imsbg.github.io/animals/images/mushroom.webp",
-    "odiaName": "ଛତୁ",
-    "profileDetails": "/vegetables/mushroom.json"
   }
 ]
