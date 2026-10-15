@@ -3,352 +3,924 @@
     "name": "Potato",
     "scientificName": "Solanum tuberosum",
     "category": "ପରିବା",
+    "description": "a starchy root vegetable that grows underground",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/potato.webp",
     "odiaName": "ଆଳୁ",
-    "profileDetails": "/vegetables/potato.json"
+    "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଏକ ପ୍ରମୁଖ ଓ ସବୁଠାରୁ ଲୋକପ୍ରିୟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସମତଳ ଓ ପାହାଡ଼ିଆ ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଓ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ମାଟିଆ ବା ହାଲୁକା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆଳୁ ଗଛରେ ନୁହେଁ, ମାଟି ତଳେ ଫଳିଥାଏ ।",
+        "ଏହାକୁ ପରିବା ମାନଙ୍କର ରାଜା କୁହାଯାଏ କାରଣ ଏହା ସବୁ ତରକାରୀରେ ପଡ଼େ ।",
+        "ଆଳୁରୁ ସୁଆଦିଆ ଚିପ୍ସ ଓ ଫ୍ରେଞ୍ଚ ଫ୍ରାଇଜ୍ ତିଆରି ହୁଏ ।"
+      ]
+    }
   },
   {
     "name": "Brinjal",
     "scientificName": "Solanum melongena",
     "category": "ପରିବା",
+    "description": "a purple or green vegetable with a crown on top",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/brinjal.webp",
     "odiaName": "ବାଇଗଣ",
-    "profileDetails": "/vegetables/brinjal.json"
+    "descriptionOdia": "ମୁଣ୍ଡରେ ମୁକୁଟ ଥିବା ଏକ ବାଇଗଣୀ କିମ୍ବା ସବୁଜ ରଙ୍ଗର ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ମଟାଳ ଓ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ନରମ",
+      "ରଙ୍ଗ": "ବାଇଗଣୀ, ଧଳା କିମ୍ବା ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ବାଇଗଣର ମୁଣ୍ଡରେ ଏକ ସବୁଜ ମୁକୁଟ ଭଳି ଡେମ୍ଫ ଥାଏ ।",
+        "ବାଇଗଣ ପୋଡ଼ା କିମ୍ବା ଭଜା ଖାଇବାକୁ ବହୁତ ଭଲ ଲାଗେ ।",
+        "ଏହାର ଭିତରେ ଛୋଟ ଛୋଟ ନରମ ମଞ୍ଜି ଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Tomato",
     "scientificName": "Solanum lycopersicum",
     "category": "ପରିବା",
+    "description": "a red, juicy vegetable used for making ketchup and curries",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/tomato.webp",
     "odiaName": "ଟମାଟୋ / ବିଲାତି ବାଇଗଣ",
-    "profileDetails": "/vegetables/tomato.json"
+    "descriptionOdia": "ଲାଲ୍ ଓ ରସାଳ ହୋଇଥିବା ଏକ ଖଟାମିଠା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଜଳବାୟୁ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ଓ ଲାଲ୍ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ ଏବଂ ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "ପାଚିଲେ ଲାଲ୍ ଓ କଞ୍ଚା ଥିଲେ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଟମାଟୋରୁ ମିଠା କେଚପ୍ ଓ ସସ୍ ତିଆରି ହୁଏ ।",
+        "ଏଥିରେ ପ୍ରଚୁର ପରିମାଣରେ ଭିଟାମିନ ସି ଥାଏ ।",
+        "ଏହାକୁ କଞ୍ଚା ସାଲାଡ୍ କରି ଖାଇବା ମଧ୍ୟ ସ୍ୱାସ୍ଥ୍ୟ ପାଇଁ ଲାଭଦାୟକ ।"
+      ]
+    }
   },
   {
     "name": "Cauliflower",
     "scientificName": "Brassica oleracea var. botrytis",
     "category": "ପରିବା",
+    "description": "a vegetable that looks like a large white flower",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/cauliflower.webp",
     "odiaName": "ଫୁଲକୋବି",
-    "profileDetails": "/vegetables/cauliflower.json"
+    "descriptionOdia": "ସବୁଜ ପତ୍ର ମଝିରେ ଏକ ବଡ଼ ଧଳା ଫୁଲ ପରି ଦେଖାଯାଉଥିବା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ଓ ମଟାଳ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ଧଳା ଏବଂ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ଦେଖିବାକୁ ଗୋଟିଏ ବଡ଼ ଫୁଲ ଭଳି ଲାଗେ ।",
+        "ଶୀତ ଦିନେ ଫୁଲକୋବି ତରକାରୀ ଘରେ ଘରେ ରନ୍ଧା ହୁଏ ।",
+        "ଏହାର ଛୋଟ ଛୋଟ ଖଣ୍ଡକୁ ପକୁଡ଼ି କରି ମଧ୍ୟ ଖାଆନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Cabbage",
     "scientificName": "Brassica oleracea var. capitata",
     "category": "ପରିବା",
+    "description": "a leafy green vegetable formed in a round shape",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/cabbage.webp",
     "odiaName": "ବନ୍ଧାକୋବି",
-    "profileDetails": "/vegetables/cabbage.json"
+    "descriptionOdia": "ଅନେକ ପତ୍ର ବନ୍ଧା ହୋଇ ରହିଥିବା ଏକ ଗୋଲ୍ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ମଟାଳ ଓ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ହାଲୁକା ମିଠା",
+      "ରଙ୍ଗ": "ହାଲୁକା ସବୁଜ ବା ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହି ପରିବାରେ କେବଳ ପତ୍ର ହିଁ ପତ୍ର ବନ୍ଧା ହୋଇ ରହିଥାଏ ।",
+        "ଚାଉମିନ୍ ଭଳି ଫାଷ୍ଟଫୁଡ୍‌ରେ ଏହାକୁ ପକାଯାଏ ।",
+        "ପତ୍ର ଖୋଲିଲେ ଏହା ଭିତରେ ଆଉ କିଛି ନଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Ladyfinger",
     "scientificName": "Abelmoschus esculentus",
     "category": "ପରିବା",
+    "description": "a long, green vegetable also known as okra",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/ladyfinger.webp",
     "odiaName": "ଭେଣ୍ଡି",
-    "profileDetails": "/vegetables/ladyfinger.json"
+    "descriptionOdia": "ଆଙ୍ଗୁଠି ପରି ଲମ୍ବା ଦେଖାଯାଉଥିବା ଏକ ନାଳୁଆ ସବୁଜ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଓ ହାଲୁକା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାର ଆକାର ମହିଳାଙ୍କ ଆଙ୍ଗୁଠି ପରି ହୋଇଥିବାରୁ ଏହାକୁ ଲେଡିଫିଙ୍ଗର କୁହାଯାଏ ।",
+        "ଭେଣ୍ଡିକୁ କାଟିଲେ ଭିତରୁ ନାଳୁଆ ଅଂଶ ବାହାରେ ।",
+        "ଭେଣ୍ଡି ଭଜା ଗରମ ଭାତ ସହିତ ଖାଇବାକୁ ଭଲ ଲାଗେ ।"
+      ]
+    }
   },
   {
     "name": "Bitter Gourd",
     "scientificName": "Momordica charantia",
     "category": "ପରିବା",
+    "description": "a green vegetable known for its bitter taste",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/bitter_gourd.webp",
     "odiaName": "କଲରା",
-    "profileDetails": "/vegetables/bitter_gourd.json"
+    "descriptionOdia": "ପିତା ସ୍ୱାଦ ପାଇଁ ଜଣାଶୁଣା ଏକ ଔଷଧୀୟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଜଳବାୟୁ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ପିତା",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କଲରା ଖାଇବାକୁ ବହୁତ ପିତା ଲାଗେ କିନ୍ତୁ ଏହା ଦେହ ପାଇଁ ଅମୃତ ।",
+        "ଏହା ରକ୍ତକୁ ସଫା କରିବାରେ ସାହାଯ୍ୟ କରେ ।",
+        "ଏହାର ବାହାର ପାଖ ଟିକେ ଉଚ୍ଚା ନିଚ୍ଚା ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Pointed Gourd",
     "scientificName": "Trichosanthes dioica",
     "category": "ପରିବା",
+    "description": "a small green vegetable mostly grown in South Asia",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/pointed_gourd.webp",
     "odiaName": "ପୋଟଳ",
-    "profileDetails": "/vegetables/pointed_gourd.json"
+    "descriptionOdia": "ଦୁଇ ପାଖରୁ ମୁନିଆ ଆକାରର ଏକ ଛୋଟ ସବୁଜ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ନଦୀ କୂଳିଆ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ ଓ ହାଲୁକା ଧଳା ଗାର",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପୋଟଳର ଦୁଇ ମୁଣ୍ଡ ଟିକେ ସରୁଆ ଓ ମୁନିଆ ହୋଇଥାଏ ।",
+        "ପୋଟଳ ଭୋଜି ତରକାରୀରେ ଏକ ମୁଖ୍ୟ ପରିବା ଭାବେ ବ୍ୟବହାର ହୁଏ ।",
+        "ଏହାର ଭିତରେ ଛୋଟ ଛୋଟ ଟାଣ ମଞ୍ଜି ଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Arum / Taro root",
     "scientificName": "Colocasia esculenta",
     "category": "ପରିବା",
+    "description": "a starchy root vegetable with large water-repellent leaves",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/taro_root.webp",
     "odiaName": "ସାରୁ",
-    "profileDetails": "/vegetables/taro_root.json"
+    "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଏକ ଖିରିସା ଗୋଲ୍ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଆର୍ଦ୍ର ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଓଦାଳିଆ ଓ ମଟାଳ ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ବା ଖିରିସା",
+      "ରଙ୍ଗ": "ମାଟିଆ ଓ ଭିତରେ ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସାରୁ ପତ୍ର ବହୁତ ବଡ଼ ହୋଇଥାଏ ଯେଉଁଥିରେ ପାଣି ଜମା ରୁହେ ନାହିଁ ।",
+        "ଏହାକୁ ସିଝାଇ କରି ଡାଲମା ବା ବେସରରେ ପକାଯାଏ ।",
+        "କଞ୍ଚା ସାରୁ ହାତରେ ଲାଗିଲେ ଟିକେ କୁଣ୍ଡେଇ ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Sweet Potato",
     "scientificName": "Ipomoea batatas",
     "category": "ପରିବା",
+    "description": "a sweet, starchy root vegetable rich in energy",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/sweet_potato.webp",
     "odiaName": "କନ୍ଦମୂଳ",
-    "profileDetails": "/vegetables/sweet_potato.json"
+    "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଆଳୁ ପରି ଦେଖାଯାଉଥିବା ଏକ ମିଠା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଓ ହାଲୁକା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ନାଲି ବା ବାଇଗଣୀ ଏବଂ ଭିତରେ ଧଳା ବା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ଖାଇବାକୁ ଆଳୁ ଭଳି ଲାଗେ କିନ୍ତୁ ସ୍ୱାଦ ବହୁତ ମିଠା ।",
+        "ଶିବରାତ୍ରି ଓ ଉପବାସ ଦିନରେ ଲୋକେ କନ୍ଦମୂଳ ଖାଆନ୍ତି ।",
+        "ଏହାକୁ ପୋଡ଼ି କିମ୍ବା ସିଝାଇ ଖାଇଲେ ବହୁତ ବଳ ମିଳେ ।"
+      ]
+    }
   },
   {
     "name": "Yam",
     "scientificName": "Dioscorea alata",
     "category": "ପରିବା",
+    "description": "a large, thick root vegetable that grows underground",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/yam.webp",
     "odiaName": "ଖମ୍ବ ଆଳୁ",
-    "profileDetails": "/vegetables/yam.json"
+    "descriptionOdia": "ଖମ୍ବ ପରି ଲମ୍ବା ଆକାରର ଏକ ବଡ଼ ଓ ମୋଟା ମାଟିତଳ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ଗଭୀର ମଟାଳ ଏବଂ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ମାଟିଆ ଓ ଭିତରେ ଧଳା ବା ହାଲୁକା ନାଲିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ମାଟି ତଳେ ଗୋଟିଏ ବଡ଼ ଖମ୍ବ ପରି ବଢ଼ିଥାଏ ।",
+        "ଏହାକୁ ଭାଜି କିମ୍ବା ଡାଲମାରେ ପକାଇ ଖିଆଯାଏ ।",
+        "ଏହାର ଗଛ ଏକ ଲତା ପରି ଉପରକୁ ମାଡ଼ିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Elephant Foot Yam",
     "scientificName": "Amorphophallus paeoniifolius",
     "category": "ପରିବା",
+    "description": "a large root vegetable resembling an elephant's foot",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/elephant_foot_yam.webp",
     "odiaName": "ଉଲୁଅ",
-    "profileDetails": "/vegetables/elephant_foot_yam.json"
+    "descriptionOdia": "ହାତୀର ପାଦ ପରି ଦେଖାଯାଉଥିବା ଏକ ବିରାଟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "କ୍ରାନ୍ତୀୟ ଅଞ୍ଚଳ",
+      "ମାଟି": "ନିଗିଡ଼ା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶରତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ (ଭଲଭାବେ ନ ସିଝିଲେ କୁଣ୍ଡେଇ ହୁଏ)",
+      "ରଙ୍ଗ": "ବାହାରେ ଗାଢ଼ ମାଟିଆ ଏବଂ ଭିତରେ ହାଲୁକା ଧଳା ଓ ଗୋଲାପୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାର ଆକାର ଠିକ୍ ହାତୀ ପାଦ ପରି ବଡ଼ ହୋଇଥାଏ ।",
+        "ଏହାକୁ ତରକାରୀ କରିବା ପୂର୍ବରୁ ଟିକେ ଖଟା ଦେଇ ସିଝାଇବାକୁ ପଡ଼େ ।",
+        "ଭଲ ଭାବରେ ନ ସିଝାଇଲେ ଏହା ପାଟିକୁ କୁଣ୍ଡେଇ କରେ ।"
+      ]
+    }
   },
   {
     "name": "Turnip",
     "scientificName": "Brassica rapa subsp. rapa",
     "category": "ପରିବା",
+    "description": "a round root vegetable with a white and purple skin",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/turnip.webp",
     "odiaName": "ଉଲ କୋବି",
-    "profileDetails": "/vegetables/turnip.json"
+    "descriptionOdia": "ଗୋଲ୍ ଏବଂ ଶାଗୁଆ ରଙ୍ଗର ଏକ ପରିବା ଯାହାର ପତ୍ର ମଧ୍ୟ ଖିଆଯାଏ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ଟିକେ ମିଠାଳିଆ",
+      "ରଙ": "ହାଲୁକା ସବୁଜ ବା ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଉଲ କୋବି ମାଟି ଉପରେ ଏକ ଗୋଲ୍ ବଲ୍ ପରି ଫଳିଥାଏ ।",
+        "ଏହା ଶୀତ ଦିନେ ବଜାରରେ ବେଶି ଦେଖିବାକୁ ମିଳେ ।",
+        "ଏହାକୁ ବିଭିନ୍ନ ତରକାରୀରେ ବ୍ୟବହାର କରାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Ridge Gourd",
     "scientificName": "Luffa acutangula",
     "category": "ପରିବା",
+    "description": "a green vegetable with ridged skin, mostly grown in a vine",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/ridge_gourd.webp",
     "odiaName": "ଜହ୍ନି",
-    "profileDetails": "/vegetables/ridge_gourd.json"
+    "descriptionOdia": "ଲମ୍ବା ଏବଂ ଶିରାଶିରା ଚୋପା ଥିବା ଏକ ସବୁଜ ଲତା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ବା ଟିକେ ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଜହ୍ନିର ଚୋପାରେ ଲମ୍ବା ଲମ୍ବା ଉଚ୍ଚା ନିଚ୍ଚା ଶିରା ଥାଏ ।",
+        "ଜହ୍ନି ପୋସ୍ତ ତରକାରୀ ଖାଇବାକୁ ବହୁତ ସ୍ୱାଦିଷ୍ଟ ଲାଗେ ।",
+        "ଏହାର ଫୁଲ ବହୁତ ସୁନ୍ଦର ଓ ହଳଦିଆ ରଙ୍ଗର ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Snake Gourd",
     "scientificName": "Trichosanthes cucumerina",
     "category": "ପରିବା",
+    "description": "a long, thin vegetable that looks like a snake",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/snake_gourd.webp",
     "odiaName": "ଛଚିନ୍ଦ୍ରା",
-    "profileDetails": "/vegetables/snake_gourd.json"
+    "descriptionOdia": "ସାପ ପରି ଲମ୍ବା ଦେଖାଯାଉଥିବା ଏକ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ଧଳା ଗାର ଥିବା ସବୁଜ ରଙ୍ଗ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ଦେଖିବାକୁ ଏକଦମ୍ ସାପ ପରି ଲମ୍ବା ଓ ବଙ୍କା ହୋଇଥାଏ ।",
+        "ଗଛରେ ଲମ୍ବିଥିବା ବେଳେ ଏହା ବହୁତ ସୁନ୍ଦର ଦେଖାଯାଏ ।",
+        "ଏହାକୁ ଭାଜି କରି କିମ୍ବା ରାଇ ପ୍ରସ୍ତୁତ କରି ଖିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Spine Gourd",
     "scientificName": "Momordica dioica",
     "category": "ପରିବା",
+    "description": "a small, prickly vegetable commonly found during monsoons",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/spine_gourd.webp",
     "odiaName": "କାଙ୍କଡ଼",
-    "profileDetails": "/vegetables/spine_gourd.json"
+    "descriptionOdia": "ବାହାର ପଟେ କଣ୍ଟା କଣ୍ଟା ଥିବା ଏକ ଛୋଟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଜଙ୍ଗଲିଆ ଓ ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ନିଗିଡ଼ା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାର ବାହାର ପାଖ କଣ୍ଟା କଣ୍ଟା ଥାଏ କିନ୍ତୁ ତାହା କୁଣ୍ଡେଇ କରେ ନାହିଁ ।",
+        "ବର୍ଷା ଦିନେ ଏହା ବଜାରରେ ଅଧିକ ଦେଖିବାକୁ ମିଳେ ।",
+        "କାଙ୍କଡ଼ ଭଜା ଖାଇବାକୁ ବହୁତ କଡ଼କଡ଼ିଆ ଓ ସୁଆଦିଆ ଲାଗେ ।"
+      ]
+    }
   },
   {
     "name": "Ivy Gourd",
     "scientificName": "Coccinia grandis",
     "category": "ପରିବା",
+    "description": "a small, oval-shaped green vegetable that grows on vines",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/ivy_gourd.webp",
     "odiaName": "କୁନ୍ଦୁରି",
-    "profileDetails": "/vegetables/ivy_gourd.json"
+    "descriptionOdia": "ଛୋଟ ଛୋଟ ଆକାରର ଏକ ସବୁଜ ରଙ୍ଗର ଲତା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ସାମାନ୍ୟ ଖଟା",
+      "ରଙ୍ଗ": "ସବୁଜ ଏବଂ ପାଚିଲେ ଲାଲ୍",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କୁନ୍ଦୁରି ଦେଖିବାକୁ ଛୋଟ ପୋଟଳ ପରି ଲାଗେ ।",
+        "କୁନ୍ଦୁରି ଭଜା ଗରମ ଭାତ ସହିତ ବହୁତ ଭଲ ଲାଗେ ।",
+        "ପାଚିଲା କୁନ୍ଦୁରିକୁ ଚଢ଼େଇମାନେ ଖାଇବାକୁ ବହୁତ ପସନ୍ଦ କରନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Bottle Gourd",
     "scientificName": "Lagenaria siceraria",
     "category": "ପରିବା",
+    "description": "a bottle-shaped light green vegetable with high water content",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/bottle_gourd.webp",
     "odiaName": "ଲାଉ",
-    "profileDetails": "/vegetables/bottle_gourd.json"
+    "descriptionOdia": "ବୋତଲ ଆକାରର ପ୍ରଚୁର ଜଳୀୟ ଅଂଶ ଥିବା ଏକ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ବାଲିଆ ଓ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ହାଲୁକା ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଲାଉରେ ବହୁତ ପାଣି ଅଂଶ ଥାଏ ଯାହା ପେଟ ପାଇଁ ଖୁବ୍ ଭଲ ।",
+        "ଆଗ କାଳରେ ଶୁଖିଲା ଲାଉ ଖୋଳରୁ ସଙ୍ଗୀତ ବାଦ୍ୟଯନ୍ତ୍ର ତିଆରି ହେଉଥିଲା ।",
+        "ଲାଉ ଚିଙ୍ଗୁଡ଼ି ତରକାରୀ ବହୁତ ପ୍ରସିଦ୍ଧ ।"
+      ]
+    }
   },
   {
     "name": "Ash Gourd",
     "scientificName": "Benincasa hispida",
     "category": "ପରିବା",
+    "description": "a large vegetable covered with a white ash-like powder",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/ash_gourd.webp",
     "odiaName": "ପାଣି କଖାରୁ",
-    "profileDetails": "/vegetables/ash_gourd.json"
+    "descriptionOdia": "ବାହାରେ ଧଳା ପାଉଁଶିଆ ଆବରଣ ଥିବା ଏକ ବଡ଼ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ଓ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ କିମ୍ବା ପାଣିଆ",
+      "ରଙ୍ଗ": "ଧଳା ଏବଂ ହାଲୁକା ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପାଣି କଖାରୁରୁ ବଡ଼ି ଏବଂ ପେଠା ନାମକ ମିଠା ତିଆରି କରାଯାଏ ।",
+        "ଏହା ଉପରେ ଏକ ଧଳା ରଙ୍ଗର ପାଉଁଶ ଭଳି ଗୁଣ୍ଡ ଲାଗିଥାଏ ।",
+        "ଗାଁରେ ଲୋକେ ଏହାକୁ ନିଜ ଘର ଛାତ ଉପରେ ମଧ୍ୟ ଚାଷ କରନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Pumpkin",
     "scientificName": "Cucurbita pepo",
     "category": "ପରିବା",
+    "description": "a large, round, orange or green vegetable",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/pumpkin.webp",
     "odiaName": "କଖାରୁ",
-    "profileDetails": "/vegetables/pumpkin.json"
+    "descriptionOdia": "ବଡ଼ ଆକାରର ଏକ ମିଠା ଓ ହଳଦିଆ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସମତଳ ଅଞ୍ଚଳ",
+      "ମାଟି": "ସବୁ ପ୍ରକାରର ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "କଞ୍ଚା ଥିଲେ ସବୁଜ ଓ ପାଚିଲେ କମଳା-ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କଖାରୁ ଗଛର ଡଙ୍କ, ପତ୍ର ଓ ଫୁଲକୁ ମଧ୍ୟ ସ୍ୱାଦିଷ୍ଟ ବ୍ୟଞ୍ଜନ କରି ଖିଆଯାଏ ।",
+        "ଏହାକୁ କାଟିଲେ ଭିତରୁ ବହୁତ ଗୁଡ଼ିଏ ମଞ୍ଜି ବାହାରେ ।",
+        "ପାଚିଲା କଖାରୁ ବହୁ ଦିନ ପର୍ଯ୍ୟନ୍ତ ନଷ୍ଟ ହୁଏ ନାହିଁ ।"
+      ]
+    }
   },
   {
     "name": "Drumstick",
     "scientificName": "Moringa oleifera",
     "category": "ପରିବା",
+    "description": "a long, stick-like vegetable growing on trees",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/drumstick.webp",
     "odiaName": "ସଜନା ଛୁଇଁ",
-    "profileDetails": "/vegetables/drumstick.json"
+    "descriptionOdia": "ଲମ୍ବା ବାଡ଼ି ଭଳି ଦେଖାଯାଉଥିବା ଏକ ପରିବା ଯାହା ଗଛରେ ଫଳେ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଓ ଶୁଖିଲା ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ସୁଆଦିଆ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସଜନା ଗଛର ଛୁଇଁ, ଫୁଲ ଏବଂ ପତ୍ର ସବୁ ଖିଆଯାଏ ଯାହା ବହୁତ ପୁଷ୍ଟିକର ।",
+        "ଓଡ଼ିଆ ଘରର ଡାଲମାରେ ସଜନା ଛୁଇଁ ବହୁତ ସ୍ୱାଦିଷ୍ଟ ଲାଗେ ।",
+        "ଏହାକୁ ଚୋବାଇ ତାର ରସ ଖାଇଲା ପରେ ସିଠାକୁ ଫୋପାଡ଼ି ଦିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Radish",
     "scientificName": "Raphanus sativus",
     "category": "ପରିବା",
+    "description": "a white or red root vegetable with a sharp taste",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/radish.webp",
     "odiaName": "ମୂଳା",
-    "profileDetails": "/vegetables/radish.json"
+    "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଏକ ଲମ୍ବା ଧଳା ବା ନାଲି ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଓ ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଟିକେ ରାଗ ଏବଂ କଞ୍ଚା",
+      "ରଙ୍ଗ": "ଧଳା କିମ୍ବା ନାଲି",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମୂଳାକୁ କଞ୍ଚା ସାଲାଡ୍ କରି ଖିଆଯାଏ ଯାହା ହଜମ ଶକ୍ତି ବଢ଼ାଏ ।",
+        "ଏହାର ପତ୍ରକୁ ମୂଳା ଶାଗ ଭାବରେ ଖାଆନ୍ତି ।",
+        "ମୂଳା ପରଟା ଲୋକମାନଙ୍କର ଏକ ପ୍ରିୟ ଜଳଖିଆ ।"
+      ]
+    }
   },
   {
     "name": "Green Peas",
     "scientificName": "Pisum sativum",
     "category": "ପରିବା",
+    "description": "small green seeds growing inside a pod",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/green_peas.webp",
     "odiaName": "ମଟର / ମଟର ଛୁଇଁ",
-    "profileDetails": "/vegetables/green_peas.json"
+    "descriptionOdia": "ଛୁଇଁ ଭିତରେ ଥିବା ଛୋଟ ଛୋଟ ଗୋଲ୍ ସବୁଜ ମଞ୍ଜି",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ଓ ହାଲୁକା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମଟର ଛୁଇଁରୁ ମଞ୍ଜି ବାହାର କରି ପନିର ଓ ଅନ୍ୟ ତରକାରୀରେ ପକାଯାଏ ।",
+        "କଞ୍ଚା ମଟର ମଞ୍ଜି ଖାଇବାକୁ ଭାରି ମିଠା ଲାଗେ ।",
+        "ଏହାକୁ ଶୁଖାଇ ଘୁଗୁନି ତିଆରି କରାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Hyacinth Beans",
     "scientificName": "Lablab purpureus",
     "category": "ପରିବା",
+    "description": "flat, green or purple beans growing on a vine",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/hyacinth_beans.webp",
     "odiaName": "ସିମ୍ବ / ଶିମ୍ୱ",
-    "profileDetails": "/vegetables/hyacinth_beans.json"
+    "descriptionOdia": "ଚେପ୍ଟା ଆକାରର ଏକ ସବୁଜ ବା ବାଇଗଣୀ ରଙ୍ଗର ଲତା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଜଳବାୟୁ",
+      "ମାଟି": "ଦୋରସା ଓ ଲାଲ୍ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ କିମ୍ବା ବାଇଗଣୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସିମ୍ବ ଭିତରେ ଛୋଟ ଛୋଟ ମଞ୍ଜି ଥାଏ ଯାହା ବହୁତ ସ୍ୱାଦିଷ୍ଟ ହୋଇଥାଏ ।",
+        "ଶୀତ ଦିନେ ଏହା ବିଭିନ୍ନ ତରକାରୀ ଓ ଭଜାରେ ବେଶି ପଡ଼େ ।",
+        "ଏହି ଗଛ ଏକ ଲତା ଭଳି ଛାତ ବା ଚାଳ ଉପରକୁ ମାଡ଼ିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Malabar Spinach",
     "scientificName": "Basella alba",
     "category": "ପରିବା",
+    "description": "a healthy green leafy vegetable growing on a vine",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/malabar_spinach.webp",
     "odiaName": "ପୋଇ",
-    "profileDetails": "/vegetables/malabar_spinach.json"
+    "descriptionOdia": "ମୋଟା ପତ୍ର ଓ ଡଙ୍କ ଥିବା ଏକ ସୁଆଦିଆ ଲତା ଶାଗ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଓଦାଳିଆ ଓ ମଟାଳ ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ନରମ",
+      "ରଙ୍ଗ": "ସବୁଜ କିମ୍ବା ନାଲିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପୋଇ ପତ୍ରରେ ବେସର ଦେଇ ରାନ୍ଧିଲେ ତରକାରୀ ବହୁତ ଭଲ ଲାଗେ ।",
+        "ଏହାର ଡଙ୍କ ଓ ମଞ୍ଜିକୁ ମଧ୍ୟ ଖିଆଯାଏ ।",
+        "ଏହି ଶାଗରେ ପ୍ରଚୁର ପରିମାଣରେ ରକ୍ତ ବଢ଼ାଇବା ଗୁଣ ଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Amaranth Leaf",
     "scientificName": "Amaranthus cruentus",
     "category": "ପରିବା",
+    "description": "a popular green or red leafy vegetable with thick stems",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/amaranth_leaff.webp",
     "odiaName": "ଖଡ଼ା ଶାଗ",
-    "profileDetails": "/vegetables/amaranth_leaf.json"
+    "descriptionOdia": "ମୋଟା ଡାଙ୍ଗ ଥିବା ଏକ ଲୋକପ୍ରିୟ ସୁଆଦିଆ ଶାଗ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ ବା ହାଲୁକା ଲାଲ୍",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଖଡ଼ା ଶାଗର ଡାଙ୍ଗକୁ ତରକାରୀ କିମ୍ବା ଡାଲମାରେ ପକାଯାଏ ।",
+        "ଶାଗ ଖାଇଲେ ଆଖିକୁ ଭଲ ଦେଖାଯାଏ ବୋଲି ବଡ଼ମାନେ କୁହନ୍ତି ।",
+        "ଏହା ଖରାଦିନେ ପ୍ରଚୁର ମାତ୍ରାରେ ମିଳିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Amaranth Tender",
     "scientificName": "Amaranthus viridis",
     "category": "ପରିବା",
+    "description": "a very soft and tender leafy green vegetable",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/amaranth_tender.webp",
     "odiaName": "ଲେଉଟିଆ",
-    "profileDetails": "/vegetables/amaranth_tender.json"
+    "descriptionOdia": "ସରୁ ଡାଙ୍ଗ ଓ ଛୋଟ ପତ୍ର ଥିବା ଏକ ନରମ ଶାଗ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ନରମ",
+      "ରଙ୍ଗ": "ସବୁଜ ବା ଲାଲ୍",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଲେଉଟିଆ ଶାଗ ବହୁତ ଶୀଘ୍ର ବଢ଼ିଯାଏ ଏବଂ ନରମ ଥାଏ ।",
+        "ଗରମ ଭାତ ସହ ଲେଉଟିଆ ଶାଗ ଭଜା ଭାରି ସୁଆଦିଆ ଲାଗେ ।",
+        "ଏହାକୁ ରୋଗୀମାନଙ୍କୁ ଦିଆଯାଏ କାରଣ ଏହା ସହଜରେ ହଜମ ହୁଏ ।"
+      ]
+    }
   },
   {
     "name": "Onion",
     "scientificName": "Allium cepa",
     "category": "ପରିବା",
+    "description": "a bulb vegetable with many layers that makes you cry when cut",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/onion.webp",
     "odiaName": "ପିଆଜ",
-    "profileDetails": "/vegetables/onion.json"
+    "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଓ କାଟିଲା ବେଳେ ଆଖିରୁ ଲୁହ ବାହାରୁଥିବା ଏକ ପ୍ରମୁଖ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଓ ହାଲୁକା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଟିକେ ରାଗ ଏବଂ ମିଠା",
+      "ରଙ୍ଗ": "ଲାଲ୍, ଧଳା କିମ୍ବା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପିଆଜରେ ବହୁତ ଗୁଡ଼ିଏ ଚୋପା ବା ସ୍ତର ଥାଏ ଯାହାକୁ ଗୋଟିଏ ଗୋଟିଏ କରି ଖୋଲି ହୁଏ ।",
+        "ଏହାକୁ ପ୍ରାୟ ସବୁ ତରକାରୀରେ ମସଲା ଭାବେ ବ୍ୟବହାର କରାଯାଏ ।",
+        "ଖରାଦିନେ କଞ୍ଚା ପିଆଜ ଖାଇଲେ ଅଂଶୁଘାତରୁ ରକ୍ଷା ମିଳେ ।"
+      ]
+    }
   },
   {
     "name": "Garlic",
     "scientificName": "Allium sativum",
     "category": "ପରିବା",
+    "description": "a pungent bulb used to add flavor to food",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/garlic.webp",
     "odiaName": "ରସୁଣ",
-    "profileDetails": "/vegetables/garlic.json"
+    "descriptionOdia": "ସୁନ୍ଦର ବାସ୍ନା ପାଇଁ ତରକାରୀରେ ପଡୁଥିବା ଏକ ମସଲା ଜାତୀୟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଜଳବାୟୁ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଟିକେ ରାଗ ଓ କଡ଼ା ବାସ୍ନା",
+      "ରଙ୍ଗ": "ଧଳା ଏବଂ ହାଲୁକା ଗୋଲାପୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ରସୁଣରେ ଅନେକ ଛୋଟ ଛୋଟ କୋଲା ଥାଏ ଯାହା ଚୋପା ତଳେ ଲୁଚି ରହିଥାଏ ।",
+        "ଏହା ଥଣ୍ଡା ଓ ଗ୍ୟାସ୍ ରୋଗ ପାଇଁ ଭଲ ଔଷଧ ଭଳି କାମ କରେ ।",
+        "ରସୁଣ ଓ ଅଦା ବାଟି ତରକାରୀରେ ପକାଇଲେ ତରକାରୀର ସ୍ୱାଦ ବଢ଼ିଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Ginger",
     "scientificName": "Zingiber officinale",
     "category": "ପରିବା",
+    "description": "a spicy root used for cooking and medicine",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/ginger.webp",
     "odiaName": "ଅଦା",
-    "profileDetails": "/vegetables/ginger.json"
+    "descriptionOdia": "ମାଟି ତଳେ ବଢ଼ୁଥିବା ଓ ଚାହାକୁ ସୁଆଦିଆ କରୁଥିବା ଏକ ମସଲା ମୂଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ନିଗିଡ଼ା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶରତ ଋତୁ",
+      "ସ୍ୱାଦ": "ରାଗ ଓ ତୀବ୍ର",
+      "ରଙ୍ଗ": "ହାଲୁକା ମାଟିଆ କିମ୍ବା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଅଦା ପକାଇ ଚାହା ପିଇଲେ କାଶ ଓ ଥଣ୍ଡା ଭଲ ହୁଏ ।",
+        "ଏହାର ଆକାର ଟିକେ ଆବଡ଼ା ଖାବଡ଼ା ହୋଇଥାଏ ।",
+        "ଏହା ହଜମ ପ୍ରକ୍ରିୟା ପାଇଁ ଏକ ଅତି ଉତ୍ତମ ଔଷଧ ।"
+      ]
+    }
   },
   {
     "name": "Coriander Leaves",
     "scientificName": "Coriandrum sativum",
     "category": "ପରିବା",
+    "description": "fresh green leaves used to garnish and flavor dishes",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/coriander.webp",
     "odiaName": "ଧନିଆ ପତ୍ର",
-    "profileDetails": "/vegetables/coriander.json"
+    "descriptionOdia": "ସୁଗନ୍ଧ ଦେବା ପାଇଁ ବ୍ୟବହାର ହେଉଥିବା ଏକ ଛୋଟ ପତ୍ରୁଆ ଶାଗ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଜଳବାୟୁ",
+      "ମାଟି": "ହାଲୁକା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସୁଗନ୍ଧିତ ଓ ତାଜା",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ତରକାରୀ ପ୍ରସ୍ତୁତ ହେଲା ପରେ ତା ଉପରେ ଧନିଆ ପତ୍ର ପକାଯାଏ ।",
+        "ଏଥିରୁ ବହୁତ ସୁନ୍ଦର ଓ ମନମୋହକ ବାସ୍ନା ଆସେ ।",
+        "ଧନିଆ ପତ୍ର ଓ ଟମାଟୋ ମିଶାଇ ସୁଆଦିଆ ଚଟଣୀ ପ୍ରସ୍ତୁତ କରାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Elephant Apple",
     "scientificName": "Dillenia indica",
     "category": "ପରିବା",
+    "description": "a hard, green sour fruit used as a vegetable in curries",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/elephant_apple.webp",
     "odiaName": "ଓଉ",
-    "profileDetails": "/vegetables/elephant_apple.json"
+    "descriptionOdia": "ଓଡ଼ିଶାର ଏକ ପ୍ରସିଦ୍ଧ ଖଟା ଓ ଟାଣ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ସବୁ ପ୍ରକାରର ମାଟି",
+      "ଋତୁ": "ଶରତ ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ଖଟା",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଓଉରୁ ଖଟା ଏବଂ ଡାଲମା ତିଆରି କରାଯାଏ ଯାହା ଓଡ଼ିଶାରେ ଖୁବ୍ ପ୍ରିୟ ।",
+        "ଓଉକୁ କାଟିଲେ ତାର ଫୁଲ ପରି ପାଖୁଡ଼ା ଗୁଡ଼ିକ ବାହାରି ଆସେ ।",
+        "ହାତୀମାନେ ଏହାକୁ ଖାଇବାକୁ ଭଲ ପାଉଥିବାରୁ ଏହାକୁ ଇଂରାଜୀରେ ଏଲିଫ୍ୟାଣ୍ଟ୍ ଆପଲ୍ କୁହାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Beetroot",
     "scientificName": "Beta vulgaris",
     "category": "ପରିବା",
+    "description": "a dark red root vegetable that turns your hands pink",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/beetroot.webp",
     "odiaName": "ବିଟ୍",
-    "profileDetails": "/vegetables/beetroot.json"
+    "descriptionOdia": "କାଟିଲେ ହାତ ଲାଲ୍ ହୋଇଯାଉଥିବା ଏକ ମୂଳ ଜାତୀୟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ଗାଢ଼ ଲାଲ୍ ବା ମେରୁନ୍",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ବିଟ୍ ଖାଇଲେ ଶରୀରରେ ନୂଆ ରକ୍ତ ତିଆରି ହୁଏ ।",
+        "ଏହାକୁ କାଟିଲା ବେଳେ ହାତ ଓ କଟାରି ସମ୍ପୂର୍ଣ୍ଣ ନାଲି ହୋଇଯାଏ ।",
+        "ସାଲାଡ୍ ଓ ଜୁସ୍ ରେ ବିଟ୍ ର ବହୁଳ ବ୍ୟବହାର ହୁଏ ।"
+      ]
+    }
   },
   {
     "name": "Chilli",
     "scientificName": "Capsicum annuum",
     "category": "ପରିବା",
+    "description": "a small, spicy vegetable that can make your mouth burn",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/chilli.webp",
     "odiaName": "ଲଙ୍କା",
-    "profileDetails": "/vegetables/chilli.json"
+    "descriptionOdia": "ତରକାରୀକୁ ରାଗ କରିଦେଉଥିବା ଏକ ଛୋଟ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ବହୁତ ରାଗ",
+      "ରଙ୍ଗ": "ସବୁଜ ଏବଂ ପାଚିଲେ ଲାଲ୍",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଲଙ୍କା ଖାଇଲେ ପାଟି ପୋଡ଼େ ଓ ଆଖିରୁ ଲୁହ ବାହାରିଆସେ ।",
+        "ଶୁଖିଲା ଲାଲ୍ ଲଙ୍କାକୁ ଗୁଣ୍ଡ କରି ମସଲା କରାଯାଏ ।",
+        "କଞ୍ଚା ଲଙ୍କାରେ ପ୍ରଚୁର ପରିମାଣରେ ଭିଟାମିନ ସି ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Spinach",
     "scientificName": "Spinacia oleracea",
     "category": "ପରିବା",
+    "description": "a green leafy vegetable full of iron and vitamins",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/spinach.webp",
     "odiaName": "ପାଳଙ୍ଗ ଶାଗ",
-    "profileDetails": "/vegetables/spinach.json"
+    "descriptionOdia": "ଶରୀରକୁ ବଳ ଦେଉଥିବା ଏକ ସୁଆଦିଆ ନରମ ଶାଗ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ନରମ",
+      "ରଙ୍ଗ": "ଗାଢ଼ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପାଳଙ୍ଗ ଶାଗରେ ପ୍ରଚୁର ଲୌହ ଅଂଶ ଥାଏ ଯାହା ରକ୍ତ ବଢ଼ାଏ ।",
+        "ପନିର ସହ ପାଳଙ୍ଗ ମିଶାଇ ପାଳକ ପନିର ତରକାରୀ ତିଆରି ହୁଏ ।",
+        "ଏହା ଆଖି ପାଇଁ ବହୁତ ଲାଭଦାୟକ ।"
+      ]
+    }
   },
   {
     "name": "Fenugreek Leaves",
     "scientificName": "Trigonella foenum-graecum",
     "category": "ପରିବା",
+    "description": "small, slightly bitter green leaves used as a vegetable and herb",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/fenugreek_leaves.webp",
     "odiaName": "ମେଥି ଶାଗ",
-    "profileDetails": "/vegetables/fenugreek_leaves.json"
+    "descriptionOdia": "ସାମାନ୍ୟ ପିତା ଓ ସୁଗନ୍ଧିତ ସ୍ୱାଦ ଥିବା ଏକ ଛୋଟ ପତ୍ରୁଆ ଶାଗ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଟିକେ ପିତା ଓ ସୁଗନ୍ଧିତ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମେଥି ଶାଗକୁ ଅଟା ସହ ମିଶାଇ ମେଥି ପରଟା ତିଆରି କରାଯାଏ ।",
+        "ଏହା ପେଟ ରୋଗ ଓ ମଧୁମେହ (ସୁଗାର) ରୋଗୀଙ୍କ ପାଇଁ ବହୁତ ଭଲ ।",
+        "ଏହାର ମଞ୍ଜିକୁ ମଧ୍ୟ ମସଲା ଭାବରେ ବ୍ୟବହାର କରାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Mint Leaf",
     "scientificName": "Mentha",
     "category": "ପରିବା",
+    "description": "a cool, refreshing herb used in chutneys and drinks",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/mint_leaf.webp",
     "odiaName": "ପୋଦିନାପତ୍ର",
-    "profileDetails": "/vegetables/mint_leaf.json"
+    "descriptionOdia": "ସତେଜ ବାସ୍ନା ଓ ଥଣ୍ଡା ଅନୁଭବ ଦେଉଥିବା ଏକ ଛୋଟ ପତ୍ର",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଓ ଓଦାଳିଆ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଓଦା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ଥଣ୍ଡା ଓ ସୁଗନ୍ଧିତ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଖରାଦିନେ ପୋଦିନା ପତ୍ର ଚଟଣୀ କିମ୍ବା ସର୍ବତ ପିଇଲେ ଶରୀର ଥଣ୍ଡା ରୁହେ ।",
+        "ବିରିୟାନୀ ଏବଂ ସୁଆଦିଆ ତରକାରୀରେ ଏହାକୁ ବାସ୍ନା ପାଇଁ ପକାଯାଏ ।",
+        "ଏହା ବଦହଜମିକୁ ଠିକ୍ କରିବାରେ ବହୁତ ସାହାଯ୍ୟ କରେ ।"
+      ]
+    }
   },
   {
     "name": "Curry Leaf",
     "scientificName": "Murraya koenigii",
     "category": "ପରିବା",
+    "description": "a fragrant leaf used to add flavor to Indian cooking",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/curry_leaf.webp",
     "odiaName": "ଭୃସଙ୍ଗ ପତ୍ର",
-    "profileDetails": "/vegetables/curry_leaf.json"
+    "descriptionOdia": "ଡାଲମା ଓ ତରକାରୀରେ ବାସ୍ନା ପାଇଁ ପକାଯାଉଥିବା ପତ୍ର",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଓ କ୍ରାନ୍ତୀୟ ଅଞ୍ଚଳ",
+      "ମାଟି": "ସବୁ ପ୍ରକାରର ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ସୁଗନ୍ଧିତ ଓ କଷା",
+      "ରଙ୍ଗ": "ଗାଢ଼ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ତରକାରୀରେ ଛୁଙ୍କ ଦେବା ବେଳେ ଭୃସଙ୍ଗ ପତ୍ର ବ୍ୟବହାର କଲେ ବହୁତ ସୁନ୍ଦର ବାସ୍ନା ଆସେ ।",
+        "ଏହାକୁ କେତେକ ସ୍ଥାନରେ କଡ଼ି ପତ୍ର ମଧ୍ୟ କୁହାଯାଏ ।",
+        "ଏହା ଆମ କେଶ ଓ ଆଖି ପାଇଁ ବହୁତ ଉପକାରୀ ।"
+      ]
+    }
   },
   {
     "name": "Corn",
     "scientificName": "Zea mays",
     "category": "ପରିବା",
+    "description": "a yellow grain crop grown on tall stalks",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/corn.webp",
     "odiaName": "ମକା",
-    "profileDetails": "/vegetables/corn.json"
+    "descriptionOdia": "ଲମ୍ବା ଗଛରେ ଫଳୁଥିବା ଏକ ହଳଦିଆ ଓ ମିଠା ଶସ୍ୟ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ହଳଦିଆ ଓ ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ନିଆଁରେ ପୋଡ଼ି ଲୁଣ ଲଙ୍କା ଲଗାଇ ପୋଡ଼ା ମକା ଖାଇବାକୁ ବହୁତ ସୁଆଦିଆ ଲାଗେ ।",
+        "ମକାରୁ ପପ୍‌କର୍ଣ୍ଣ ତିଆରି ହୁଏ ଯାହାକୁ ଆମେ ସିନେମା ଦେଖିଲା ବେଳେ ଖାଉ ।",
+        "ମକା ଗଛରୁ ଲମ୍ବା ଲମ୍ବା ଚୁଟି ବା ଶୁଙ୍ଘ ବାହାରିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Pith of Plantain Tree",
     "scientificName": "Musa paradisiaca",
     "category": "ପରିବା",
+    "description": "the inner stem of a banana tree used as a vegetable",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/plantain_pith.webp",
     "odiaName": "ମଞ୍ଜା",
-    "profileDetails": "/vegetables/plantain_pith.json"
+    "descriptionOdia": "କଦଳୀ ଗଛର ଭିତର ଅଂଶ ଯାହାକୁ ପରିବା ଭାବେ ଖିଆଯାଏ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "କଦଳୀ ବାଡ଼ିର ମଟାଳ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ବା କଷା",
+      "ରଙ୍ଗ": "ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କଦଳୀ ଗଛ କାଟିବା ପରେ ତାର ମଝିରୁ ଏହି ଧଳା ମଞ୍ଜା ବାହାରେ ।",
+        "ମଞ୍ଜା ରାଇ ଓଡ଼ିଶାରେ ଏକ ବହୁତ ପ୍ରିୟ ଓ ପାରମ୍ପରିକ ବ୍ୟଞ୍ଜନ ଅଟେ ।",
+        "ମଞ୍ଜା କାଟିବା ବେଳେ ସେଥିରୁ ସୂତା ପରି ନାଳ ବାହାରେ ଯାହାକୁ ସଫା କରିବାକୁ ପଡ଼େ ।"
+      ]
+    }
   },
   {
     "name": "Capsicum",
     "scientificName": "Capsicum annuum grossum",
     "category": "ପରିବା",
+    "description": "a bell-shaped vegetable that comes in green, red, or yellow",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/capsicum.webp",
     "odiaName": "ଶିମଳା ଲଙ୍କା",
-    "profileDetails": "/vegetables/capsicum.json"
+    "descriptionOdia": "ଘଣ୍ଟି ଆକାରର ଏକ ବଡ଼ ଓ ମୋଟା ଲଙ୍କା ଯାହା ଆଦୌ ରାଗ ନୁହେଁ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଓ ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ ଓ ଟିକେ ମିଠାଳିଆ",
+      "ରଙ୍ଗ": "ସବୁଜ, ଲାଲ୍ ଏବଂ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ଦେଖିବାକୁ ଲଙ୍କା ପରି ହେଲେ ମଧ୍ୟ ଏହା ଜମା ରାଗ ନଥାଏ ।",
+        "ଏହାକୁ ଚାଉମିନ୍, ପିଜ୍ଜା ଏବଂ ମଞ୍ଚୁରିଆନ୍ ରେ ପକାଯାଏ ।",
+        "ଶିମଳା ଲଙ୍କାକୁ କାଟିଲେ ଏହା ଭିତରେ ଫମ୍ପା ଥାଏ ଓ କିଛି ମଞ୍ଜି ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "French Beans",
     "scientificName": "Phaseolus vulgaris",
     "category": "ପରିବା",
+    "description": "long, thin green pods eaten as a vegetable",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/beans.webp",
     "odiaName": "ବିନ୍",
-    "profileDetails": "/vegetables/beans.json"
+    "descriptionOdia": "ଲମ୍ବା ଓ ସରୁ ସବୁଜ ରଙ୍ଗର ଏକ ଛୁଇଁ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ଏକ ଲମ୍ବା ଛୁଇଁ ଯାହା ଭିତରେ ଛୋଟ ଛୋଟ ମଞ୍ଜି ଥାଏ ।",
+        "ବିନ୍ କୁ ଛୋଟ ଛୋଟ କାଟି ଆଳୁ ସହ ଭାଜି କରି ଖାଇବାକୁ ଭଲ ଲାଗେ ।",
+        "ଏଥିରେ ପ୍ରଚୁର ଭିଟାମିନ୍ ଓ ପ୍ରୋଟିନ୍ ଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Long Beans / Yardlong Bean",
     "scientificName": "Vigna unguiculata subsp. sesquipedalis",
     "category": "ପରିବା",
+    "description": "very long green pods growing on a vine",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/long_beans.webp",
     "odiaName": "ଝୁଡ଼ଙ୍ଗ",
-    "profileDetails": "/vegetables/long_beans.json"
+    "descriptionOdia": "ରଶି ପରି ଲମ୍ବା ହେଉଥିବା ଏକ ଛୁଇଁ ଜାତୀୟ ଲତା ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶରତ ଋତୁ",
+      "ସ୍ୱାଦ": "ସାଧାରଣ",
+      "ରଙ୍ଗ": "ସବୁଜ କିମ୍ବା ହାଲୁକା ନାଲିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହି ଛୁଇଁଗୁଡ଼ିକ ଗୋଟିଏ ଫୁଟ୍ ବା ତାଠାରୁ ଅଧିକ ଲମ୍ବା ହୋଇଥାଏ ।",
+        "ଓଡ଼ିଆ ଘରର ଝୁଡ଼ଙ୍ଗ ଆଳୁ ଭଜା ବହୁତ ସ୍ୱାଦିଷ୍ଟ ।",
+        "ଏହି ଗଛ ଏକ ଲତା ପରି ବାଡ଼ କିମ୍ବା ଡାଙ୍ଗ ଉପରକୁ ମାଡ଼ିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Cluster Beans",
     "scientificName": "Cyamopsis tetragonoloba",
     "category": "ପରିବା",
+    "description": "flat, narrow green pods that grow in clusters",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/vegetables/cluster_beans.webp",
     "odiaName": "ଗୁଆଁର",
-    "profileDetails": "/vegetables/cluster_beans.json"
+    "descriptionOdia": "ପେନ୍ଥା ପେନ୍ଥା ହୋଇ ଫଳୁଥିବା ଏକ ସରୁ ଓ ଚେପ୍ଟା ଛୁଇଁ ପରିବା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଓ ଶୁଖିଲା ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ଟିକେ ପିତାଳିଆ ବା କଷା",
+      "ରଙ୍ଗ": "ହାଲୁକା ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ଗଛରେ ଏକାଠି ବହୁତ ଗୁଡ଼ିଏ ପେନ୍ଥା ହୋଇ ଫଳିଥାଏ ।",
+        "ଏହାକୁ ସିଝାଇ ବା ଭାଜି କରି ଖିଆଯାଏ ।",
+        "ଏହା ପଶୁପକ୍ଷୀଙ୍କ ଖାଦ୍ୟ ଭାବରେ ମଧ୍ୟ ବ୍ୟବହାର ହୁଏ ।"
+      ]
+    }
   }
 ]
