@@ -277,7 +277,7 @@
     "scientificName": "Citrus limon",
     "category": "ଫଳ",
     "description": "a small yellow or green citrus fruit with a sour taste",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/lemon.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/lemon_lime.webp",
     "odiaName": "ଲେମ୍ବୁ",
     "descriptionOdia": "ଏକ ଛୋଟ ସବୁଜ ବା ହଳଦିଆ ରଙ୍ଗର ଖଟା ଫଳ",
     "details": {
@@ -382,7 +382,7 @@
     "scientificName": "Ziziphus mauritiana",
     "category": "ଫଳ",
     "description": "a small sweet and sour fruit popular in rural areas",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/jujube.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/jujube_indian_plum.webp",
     "odiaName": "ବରକୋଳି / କୋଳି",
     "descriptionOdia": "ଖଟାମିଠା ସ୍ୱାଦ ଥିବା ଏକ ଛୋଟ ଗୋଲ୍ କୋଳି",
     "details": {
@@ -445,7 +445,7 @@
     "scientificName": "Aegle marmelos",
     "category": "ଫଳ",
     "description": "a sacred fruit with a hard shell and sweet orange pulp",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/bael.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/stone_apple_bael.webp",
     "odiaName": "ବେଲ",
     "descriptionOdia": "ଟାଣ ଖୋଳପା ଓ ମିଠା ହଳଦିଆ ଅଂଶ ଥିବା ଏକ ପବିତ୍ର ଫଳ",
     "details": {
@@ -487,7 +487,7 @@
     "scientificName": "Averrhoa carambola",
     "category": "ଫଳ",
     "description": "a fruit that looks like a star when cut in slices",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/star_fruit.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/star_fruit_carambola.webp",
     "odiaName": "କରମଙ୍ଗା",
     "descriptionOdia": "କାଟିଲେ ତାରା ପରି ଦେଖାଯାଉଥିବା ଏକ ଖଟାମିଠା ଫଳ",
     "details": {
@@ -508,7 +508,7 @@
     "scientificName": "Borassus flabellifer",
     "category": "ଫଳ",
     "description": "a seasonal summer fruit containing jelly-like sweet seeds",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/palmyra_palm.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/palmyra_palm_fruit_ice_apple.webp",
     "odiaName": "ତାଳ",
     "descriptionOdia": "ଖରାଦିନେ ମିଳୁଥିବା ଏକ ଗୋଲ୍ ଫଳ ଯାହା ଭିତରେ ବରଫ ପରି ମଞ୍ଜି ଥାଏ",
     "details": {
@@ -571,7 +571,7 @@
     "scientificName": "Anacardium occidentale",
     "category": "ଶୁଷ୍କ ଫଳ",
     "description": "a kidney-shaped nut with a sweet and buttery taste",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/cashew.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/cashew_nut.webp",
     "odiaName": "କାଜୁ",
     "descriptionOdia": "ବକ୍ର ଆକାରର ଏକ ସ୍ୱାଦିଷ୍ଟ ଶୁଖିଲା ଫଳ",
     "details": {
@@ -613,7 +613,7 @@
     "scientificName": "Arachis hypogaea",
     "category": "ଶୁଷ୍କ ଫଳ",
     "description": "a popular nut that grows underground",
-    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/peanut.webp",
+    "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/peanut_groundnut.webp",
     "odiaName": "ଚିନାବାଦାମ / ବାଦାମ",
     "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଏକ ଲୋକପ୍ରିୟ ବାଦାମ",
     "details": {
