@@ -3,280 +3,735 @@
     "name": "Mango",
     "scientificName": "Mangifera indica",
     "category": "ଫଳ",
+    "description": "the king of fruits known for its sweet and juicy taste",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/mango.webp",
     "odiaName": "ଆମ୍ବ",
-    "profileDetails": "/fruits/mango.json"
+    "descriptionOdia": "ମିଠା ଓ ରସାଳ ସ୍ୱାଦ ପାଇଁ ଜଣାଶୁଣା ଫଳର ରାଜା",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଜଳବାୟୁ ଥିବା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଦୋରସା ଓ ଲାଲ୍ ମାଟି",
+      "ଋତୁ": "ଖରାଦିନ ବା ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା ଓ ଖଟା",
+      "ରଙ୍ଗ": "ପାଚିଲେ ହଳଦିଆ ଓ କଞ୍ଚା ଥିଲେ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆମ୍ବକୁ ଫଳମାନଙ୍କର ରାଜା କୁହାଯାଏ ।",
+        "ଆମ୍ବରୁ ଜୁସ୍ ଓ ଆଚାର ତିଆରି ହୁଏ ।",
+        "ଏହା ଆମ ଦେଶର ଜାତୀୟ ଫଳ ଅଟେ ।"
+      ]
+    }
   },
   {
     "name": "Banana",
     "scientificName": "Musa acuminata",
     "category": "ଫଳ",
+    "description": "a long curved fruit with a yellow skin",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/banana.webp",
     "odiaName": "କଦଳୀ",
-    "profileDetails": "/fruits/banana.json"
+    "descriptionOdia": "ହଳଦିଆ ଚୋପା ଥିବା ଏକ ଲମ୍ବା ବଙ୍କା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ପାଚିଲେ ହଳଦିଆ ଓ କଞ୍ଚା ଥିଲେ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କଦଳୀ ଖାଇଲେ ଶରୀରକୁ ତୁରନ୍ତ ଶକ୍ତି ମିଳିଥାଏ ।",
+        "ମାଙ୍କଡ଼ମାନେ କଦଳୀ ଖାଇବାକୁ ବହୁତ ଭଲ ପାଆନ୍ତି ।",
+        "କଞ୍ଚା କଦଳୀକୁ ତରକାରୀ କରି ଖିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Apple",
     "scientificName": "Malus domestica",
     "category": "ଫଳ",
+    "description": "a crunchy and sweet fruit mostly grown in cold regions",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/apple.webp",
     "odiaName": "ସେଓ",
-    "profileDetails": "/fruits/apple.json"
+    "descriptionOdia": "ଅଧିକାଂଶ ଥଣ୍ଡା ଅଞ୍ଚଳରେ ଚାଷ କରାଯାଉଥିବା ଏକ ମିଠା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ପାହାଡ଼ିଆ ଓ ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ପାହାଡ଼ିଆ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ନାଲି ଏବଂ ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପ୍ରତିଦିନ ଗୋଟିଏ ସେଓ ଖାଇଲେ ରୋଗ ଦୂରରେ ରୁହେ ।",
+        "ସେଓ ଭିତରେ ଛୋଟ ଛୋଟ କଳା ମଞ୍ଜି ଥାଏ ।",
+        "ଏହାକୁ କାଟି ସାଲାଡ୍ କରି ଖିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Papaya",
     "scientificName": "Carica papaya",
     "category": "ଫଳ",
+    "description": "a tropical fruit with orange flesh and black seeds",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/papaya.webp",
     "odiaName": "ଅମୃତଭଣ୍ଡା",
-    "profileDetails": "/fruits/papaya.json"
+    "descriptionOdia": "କଳା ମଞ୍ଜି ଓ ନାରଙ୍ଗୀ ରଙ୍ଗର ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଓ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "କଞ୍ଚା ଥିଲେ ସବୁଜ ଓ ପାଚିଲେ ନାରଙ୍ଗୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପେଟ ସଫା ରଖିବା ପାଇଁ ଅମୃତଭଣ୍ଡା ଖୁବ୍ ଭଲ ଅଟେ ।",
+        "ଏହାର ମଞ୍ଜିଗୁଡ଼ିକ ଗୋଲ୍ ଓ କଳା ରଙ୍ଗର ହୋଇଥାଏ ।",
+        "କଞ୍ଚା ଅମୃତଭଣ୍ଡାରେ ତରକାରୀ ପ୍ରସ୍ତୁତ ହୁଏ ।"
+      ]
+    }
   },
   {
     "name": "Pomegranate",
     "scientificName": "Punica granatum",
     "category": "ଫଳ",
+    "description": "a fruit full of sweet, juicy, red seeds",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pomegranate.webp",
     "odiaName": "ଡାଳିମ୍ବ",
-    "profileDetails": "/fruits/pomegranate.json"
+    "descriptionOdia": "ମିଠା ଏବଂ ରସାଳ ନାଲି ମଞ୍ଜିରେ ଭରା ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଶୁଖିଲା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଶରତ ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା ଓ ସାମାନ୍ୟ ଖଟା",
+      "ରଙ୍ଗ": "ଗାଢ଼ ନାଲି",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଡାଳିମ୍ବ ଖାଇଲେ ଦେହରେ ରକ୍ତ ବଢ଼ିଥାଏ ।",
+        "ଏହାର ଭିତରେ ଅନେକ ଛୋଟ ଛୋଟ ନାଲି ମଞ୍ଜି ଥାଏ ।",
+        "ମଞ୍ଜିଗୁଡ଼ିକୁ ଚୋବାଇ କିମ୍ବା ରସ କରି ପିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Guava",
     "scientificName": "Psidium guajava",
     "category": "ଫଳ",
+    "description": "a sweet tropical fruit with green skin and edible seeds",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/guava.webp",
     "odiaName": "ପିଜୁଳି",
-    "profileDetails": "/fruits/guava.json"
+    "descriptionOdia": "ସବୁଜ ଚୋପା ଏବଂ ଖାଇବା ଯୋଗ୍ୟ ମଞ୍ଜି ଥିବା ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଉଷ୍ମ ଜଳବାୟୁ",
+      "ମାଟି": "ସବୁ ପ୍ରକାରର ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ ଏବଂ ଭିତର ଅଂଶ ଧଳା କିମ୍ବା ଗୋଲାପୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପିଜୁଳିକୁ ଲୁଣ ଲଗାଇ ଖାଇବାକୁ ବହୁତ ସ୍ୱାଦିଷ୍ଟ ଲାଗେ ।",
+        "ଏଥିରେ ପ୍ରଚୁର ପରିମାଣରେ ଭିଟାମିନ ଥାଏ ।",
+        "ଏହା ଆମ ହଜମ ପ୍ରକ୍ରିୟା ପାଇଁ ବହୁତ ଭଲ ଅଟେ ।"
+      ]
+    }
   },
   {
     "name": "Orange",
     "scientificName": "Citrus sinensis",
     "category": "ଫଳ",
+    "description": "a round citrus fruit known for its vitamin C",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/orange.webp",
     "odiaName": "କମଳା",
-    "profileDetails": "/fruits/orange.json"
+    "descriptionOdia": "ଭିଟାମିନ ସି ପାଇଁ ଜଣାଶୁଣା ଏକ ଗୋଲାକାର ଖଟାମିଠା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଓ ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "କମଳା କିମ୍ବା ନାରଙ୍ଗୀ ରଙ୍ଗ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କମଳାରୁ ସୁଆଦିଆ ଜୁସ୍ ତିଆରି କରାଯାଏ ।",
+        "ଏହାକୁ ଖାଇଲେ ସର୍ଦ୍ଦି ଓ କାଶ ଦୂର ହୁଏ ।",
+        "ଏହାର ଚୋପାରୁ ମଧ୍ୟ ବାସ୍ନା ଆସିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Pineapple",
     "scientificName": "Ananas comosus",
     "category": "ଫଳ",
+    "description": "a spiky tropical fruit with sweet yellow flesh",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pineapple.webp",
     "odiaName": "ସପୁରୀ",
-    "profileDetails": "/fruits/pineapple.json"
+    "descriptionOdia": "କଣ୍ଟାଯୁକ୍ତ ଚୋପା ଓ ମିଠା ହଳଦିଆ ଅଂଶ ଥିବା ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "କ୍ରାନ୍ତୀୟ ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଅଳ୍ପ ବାଲିଆ ଓ ନିଗିଡ଼ା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ ସବୁଜ-ମାଟିଆ ଓ ଭିତରେ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାର ବାହାର ପାଖରେ କଣ୍ଟା ଭଳି ଚୋପା ଥାଏ ।",
+        "ସପୁରୀର ମୁଣ୍ଡରେ ମୁକୁଟ ଭଳି ପତ୍ର ରହିଥାଏ ।",
+        "ଏହାକୁ କାଟିବା ଟିକେ କଷ୍ଟକର ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Watermelon",
     "scientificName": "Citrullus lanatus",
     "category": "ଫଳ",
+    "description": "a large fruit with a green rind and red watery flesh",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/watermelon.webp",
     "odiaName": "ତରଭୁଜ",
-    "profileDetails": "/fruits/watermelon.json"
+    "descriptionOdia": "ସବୁଜ ଚୋପା ଏବଂ ନାଲି ରସାଳ ଅଂଶ ଥିବା ଏକ ବଡ଼ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ବାଲିଆ ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ନଦୀ କୂଳିଆ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ ସବୁଜ ଓ ଭିତରେ ନାଲି",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଖରାଦିନେ ଏହାକୁ ଖାଇଲେ ଶରୀର ଥଣ୍ଡା ରୁହେ ।",
+        "ତରଭୁଜରେ ପ୍ରଚୁର ପରିମାଣରେ ପାଣି ଥାଏ ।",
+        "ଏହାର ଭିତରେ ଛୋଟ ଛୋଟ କଳା ମଞ୍ଜି ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Jackfruit",
     "scientificName": "Artocarpus heterophyllus",
     "category": "ଫଳ",
+    "description": "the largest tree-borne fruit with a sweet taste and strong smell",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/jackfruit.webp",
     "odiaName": "ପଣସ",
-    "profileDetails": "/fruits/jackfruit.json"
+    "descriptionOdia": "ବହୁତ ମିଠା ଓ ସୁଗନ୍ଧିତ ସବୁଠାରୁ ବଡ଼ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ଗଭୀର ନିଗିଡ଼ା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ ସବୁଜ-ହଳଦିଆ ଓ ଭିତରେ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପଣସ ହେଉଛି ଗଛରେ ଫଳୁଥିବା ସବୁଠାରୁ ବଡ଼ ଫଳ ।",
+        "କଞ୍ଚା ପଣସକୁ ତରକାରୀ କରି ଖିଆଯାଏ ।",
+        "ଏହାର ମଞ୍ଜିକୁ ମଧ୍ୟ ଭାଜି କରି ଖାଇହୁଏ ।"
+      ]
+    }
   },
   {
     "name": "Grapes",
     "scientificName": "Vitis vinifera",
     "category": "ଫଳ",
+    "description": "small round fruits that grow in bunches",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/grapes.webp",
     "odiaName": "ଅଙ୍ଗୁର",
-    "profileDetails": "/fruits/grapes.json"
+    "descriptionOdia": "ପେନ୍ଥା ପେନ୍ଥା ହୋଇ ଫଳୁଥିବା ଛୋଟ ଗୋଲ୍ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାମାନ୍ୟ ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଗୋଡ଼ିମିଶା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା ଏବଂ ସାମାନ୍ୟ ଖଟା",
+      "ରଙ": "ସବୁଜ କିମ୍ବା କଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଅଙ୍ଗୁର ଗଛ ଏକ ଲତା ଅଟେ ।",
+        "ଶୁଖିଲା ଅଙ୍ଗୁରକୁ କିସମିସ କୁହାଯାଏ ।",
+        "ଏହା ପେନ୍ଥା ପେନ୍ଥା ହୋଇ ଫଳିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Coconut",
     "scientificName": "Cocos nucifera",
     "category": "ଫଳ",
+    "description": "a hard-shelled fruit with edible white meat and water",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/coconut.webp",
     "odiaName": "ନଡ଼ିଆ",
-    "profileDetails": "/fruits/coconut.json"
+    "descriptionOdia": "ଟାଣ ଖୋଳପା ଓ ଭିତରେ ଧଳା ଶସ ଥିବା ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସମୁଦ୍ର କୂଳିଆ ଅଞ୍ଚଳ",
+      "ମାଟି": "ସମୁଦ୍ର କୂଳିଆ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ ମାଟିଆ ଓ ଭିତରେ ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପୂଜା ପର୍ବାଣିରେ ନଡ଼ିଆ ବ୍ୟବହାର କରାଯାଏ ।",
+        "ନଡ଼ିଆରୁ ତେଲ ବାହାରିଥାଏ ।",
+        "ନଡ଼ିଆ ଗଛ ବହୁତ ଡେଙ୍ଗା ହୋଇଥାଏ ଓ ଏଥିରେ ଶାଖା ନଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Green Coconut",
     "scientificName": "Cocos nucifera (Tender)",
     "category": "ଫଳ",
+    "description": "a young coconut filled with sweet and refreshing water",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/green_coconut.webp",
     "odiaName": "ପଇଡ଼",
-    "profileDetails": "/fruits/green_coconut.json"
+    "descriptionOdia": "ମିଠା ଓ ତାଜା ପାଣିରେ ଭରା ଏକ କଞ୍ଚା ନଡ଼ିଆ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସମୁଦ୍ର କୂଳିଆ ଅଞ୍ଚଳ",
+      "ମାଟି": "ସମୁଦ୍ର କୂଳିଆ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଖରାଦିନେ ପଇଡ଼ ପାଣି ପିଇଲେ ଶରୀରକୁ ଶାନ୍ତି ମିଳେ ।",
+        "ଏହା ରୋଗୀମାନଙ୍କୁ ଶକ୍ତି ଦେବାରେ ସାହାଯ୍ୟ କରେ ।",
+        "ପଇଡ଼ ଭିତରେ ଥିବା ନରମ ମଲାଇ ଖାଇବାକୁ ବହୁତ ମିଠା ଲାଗେ ।"
+      ]
+    }
   },
   {
     "name": "Lemon / Lime",
     "scientificName": "Citrus limon",
     "category": "ଫଳ",
+    "description": "a small yellow or green citrus fruit with a sour taste",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/lemon.webp",
     "odiaName": "ଲେମ୍ବୁ",
-    "profileDetails": "/fruits/lemon.json"
+    "descriptionOdia": "ଏକ ଛୋଟ ସବୁଜ ବା ହଳଦିଆ ରଙ୍ଗର ଖଟା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସାଧାରଣ ଜଳବାୟୁ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଉର୍ବର ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ବହୁତ ଖଟା",
+      "ରଙ୍ଗ": "ସବୁଜ କିମ୍ବା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଲେମ୍ବୁରୁ ସୁଆଦିଆ ସର୍ବତ ତିଆରି ହୁଏ ।",
+        "ଏହା ଭିଟାମିନ ସି ର ଏକ ପ୍ରମୁଖ ଉତ୍ସ ଅଟେ ।",
+        "ତରକାରୀରେ ପକାଇଲେ ଖାଦ୍ୟର ସ୍ୱାଦ ବଢ଼ିଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Tropical Lime",
     "scientificName": "Citrus limettioides",
     "category": "ଫଳ",
+    "description": "a larger, thicker-skinned citrus fruit used in traditional dishes",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/tropical_lime.webp",
     "odiaName": "କାନ୍ଧିଆ",
-    "profileDetails": "/fruits/tropical_lime.json"
+    "descriptionOdia": "ମୋଟା ଚୋପା ଥିବା ଏକ ବଡ଼ ଖଟା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗାଁ ଗହଳି ଏବଂ ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ସାଧାରଣ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା",
+      "ରଙ୍ଗ": "ସବୁଜ ଓ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ସାଧାରଣ ଲେମ୍ବୁ ଠାରୁ ଆକାରରେ ବଡ଼ ହୋଇଥାଏ ।",
+        "ଏହାର ଚୋପା ଖୁବ୍ ମୋଟା ଥାଏ ।",
+        "ଗାଁ ଗହଳିରେ ଏହାକୁ ପଖାଳ ସହିତ ଖିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Pear",
     "scientificName": "Pyrus communis",
     "category": "ଫଳ",
+    "description": "a sweet fruit with a narrow top and wider base",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pear.webp",
     "odiaName": "ନାସପାତି",
-    "profileDetails": "/fruits/pear.json"
+    "descriptionOdia": "ଉପରୁ ସରୁ ଓ ତଳୁ ଚଉଡ଼ା ଥିବା ଏକ ମିଠା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଓ ପାହାଡ଼ିଆ ଅଞ୍ଚଳ",
+      "ମାଟି": "ପାହାଡ଼ିଆ ଉର୍ବର ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶରତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ କିମ୍ବା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ନାସପାତି ଖାଇବାକୁ ସେଓ ଭଳି କଡ଼କଡ଼ିଆ ଲାଗେ ।",
+        "ଏହା ହଜମ ପ୍ରକ୍ରିୟା ପାଇଁ ବହୁତ ଭଲ ।",
+        "ଏହାର ଉପର ଭାଗ ସରୁ ଏବଂ ତଳ ଭାଗ ମୋଟା ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Peach",
     "scientificName": "Prunus persica",
     "category": "ଫଳ",
+    "description": "a soft, sweet fruit with a fuzzy skin and a large pit",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/peach.webp",
     "odiaName": "ପିଚ୍ ଫଳ",
-    "profileDetails": "/fruits/peach.json"
+    "descriptionOdia": "ନରମ ଚୋପା ଏବଂ ଏକ ବଡ଼ ମଞ୍ଜି ଥିବା ଏକ ମିଠା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ବାଲିଆ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ହଳଦିଆ ଓ ଗୋଲାପୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପିଚ୍ ଫଳର ଚୋପା ମଖମଲ୍ ପରି ନରମ ହୋଇଥାଏ ।",
+        "ଏହାର ମଝିରେ ଗୋଟିଏ ବଡ଼ ଓ ଟାଣ ମଞ୍ଜି ଥାଏ ।",
+        "ଏହା ଖାଇବାକୁ ବହୁତ ସୁଆଦିଆ ଓ ନରମ ଲାଗେ ।"
+      ]
+    }
   },
   {
     "name": "Bluekberry",
     "scientificName": "Syzygium cumini",
     "category": "ଫଳ",
+    "description": "a small, dark purple fruit that leaves a purple color on the tongue",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/blueberry.webp",
     "odiaName": "ଜାମୁକୋଳି / ଜାମୁ",
-    "profileDetails": "/fruits/blueberry.json"
+    "descriptionOdia": "ଜିଭରେ ବାଇଗଣୀ ରଙ୍ଗ ଛାଡ଼ିଯାଉଥିବା ଏକ ଛୋଟ କଳା ରଙ୍ଗର ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଜଳବାୟୁ ଅଞ୍ଚଳ",
+      "ମାଟି": "ସବୁ ପ୍ରକାରର ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "ଗାଢ଼ ବାଇଗଣୀ କିମ୍ବା କଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଜାମୁକୋଳି ଖାଇଲେ ଜିଭ ବାଇଗଣୀ ରଙ୍ଗର ହୋଇଯାଏ ।",
+        "ମଝିରେ ଗୋଟିଏ ଲମ୍ବା ମଞ୍ଜି ରହିଥାଏ ।",
+        "ଜାମୁକୋଳି ସ୍ୱାସ୍ଥ୍ୟ ପାଇଁ ବହୁତ ଲାଭଦାୟକ ଅଟେ ।"
+      ]
+    }
   },
   {
     "name": "Jujube / Indian Plum",
     "scientificName": "Ziziphus mauritiana",
     "category": "ଫଳ",
+    "description": "a small sweet and sour fruit popular in rural areas",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/jujube.webp",
     "odiaName": "ବରକୋଳି / କୋଳି",
-    "profileDetails": "/fruits/jujube.json"
+    "descriptionOdia": "ଖଟାମିଠା ସ୍ୱାଦ ଥିବା ଏକ ଛୋଟ ଗୋଲ୍ କୋଳି",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଶୁଖିଲା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଓ ବସନ୍ତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ, ହଳଦିଆ ଓ ଲାଲ୍",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସରସ୍ୱତୀ ପୂଜାରେ ବରକୋଳି ଭୋଗ ଲଗାଯାଏ ।",
+        "ବରକୋଳି ଆଚାର ଖାଇବାକୁ ବହୁତ ସ୍ୱାଦିଷ୍ଟ ଲାଗେ ।",
+        "ପିଲାମାନେ ଏହାକୁ ଲୁଣ ଲଙ୍କା ଲଗାଇ ଖାଇବାକୁ ପସନ୍ଦ କରନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Custard Apple",
     "scientificName": "Annona squamosa",
     "category": "ଫଳ",
+    "description": "a sweet fruit with bumpy skin and creamy white flesh",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/custard_apple.webp",
     "odiaName": "ଆତ",
-    "profileDetails": "/fruits/custard_apple.json"
+    "descriptionOdia": "ବହୁତ ଗୁଡ଼ିଏ କଳା ମଞ୍ଜି ଓ ମିଠା ଧଳା ଅଂଶ ଥିବା ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଓ କ୍ରାନ୍ତୀୟ ଅଞ୍ଚଳ",
+      "ମାଟି": "ପଥୁରିଆ କିମ୍ବା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଓ ଶରତ ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ ସବୁଜ ଓ ଭିତରେ ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆତର ବାହାର ପାଖ ଉଚ୍ଚା ନିଚ୍ଚା ହୋଇଥାଏ ।",
+        "ଏହା ଭିତରେ ବହୁତ ସାରା କଳା ମଞ୍ଜି ଥାଏ ।",
+        "ଆତର ସ୍ୱାଦ ଖୁବ୍ ମିଠା ଓ ନରମ ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Wood Apple",
     "scientificName": "Limonia acidissima",
     "category": "ଫଳ",
+    "description": "a hard-shelled fruit with sour and sweet sticky brown flesh",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/wood_apple.webp",
     "odiaName": "କଇଁଥ ",
-    "profileDetails": "/fruits/wood_apple.json"
+    "descriptionOdia": "ଟାଣ ଖୋଳପା ଓ ଭିତରେ ଖଟାମିଠା ଅଂଶ ଥିବା ଏକ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଓ ସାଧାରଣ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଶୁଖିଲା ଏବଂ ଟାଣ ମାଟି",
+      "ଋତୁ": "ଶରତ ଓ ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ ଧଳା-ମାଟିଆ ଓ ଭିତରେ ମାଟିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାର ଖୋଳପା କାଠ ପରି ବହୁତ ଟାଣ ହୋଇଥାଏ ।",
+        "ପାଚିଲା କଇଁଥରୁ ସୁନ୍ଦର ବାସ୍ନା ଆସିଥାଏ ।",
+        "ଲୋକମାନେ କଇଁଥ ଚଟଣୀ ଖାଇବାକୁ ଭଲ ପାଆନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Stone Apple / Bael",
     "scientificName": "Aegle marmelos",
     "category": "ଫଳ",
+    "description": "a sacred fruit with a hard shell and sweet orange pulp",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/bael.webp",
     "odiaName": "ବେଲ",
-    "profileDetails": "/fruits/bael.json"
+    "descriptionOdia": "ଟାଣ ଖୋଳପା ଓ ମିଠା ହଳଦିଆ ଅଂଶ ଥିବା ଏକ ପବିତ୍ର ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଓ ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଶୁଖିଲା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ ଏବଂ ପାଚିଲେ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଶିବ ପୂଜାରେ ବେଲ ପତ୍ର ଲାଗି କରାଯାଏ ।",
+        "ଗ୍ରୀଷ୍ମ ଦିନେ ବେଲ ପଣା ପିଇଲେ ପେଟ ଥଣ୍ଡା ରୁହେ ।",
+        "ପାଚିଲା ବେଲ ଭିତରୁ ଏକ ସୁଗନ୍ଧିତ ବାସ୍ନା ବାହାରେ ।"
+      ]
+    }
   },
   {
     "name": "Hog Plum",
     "scientificName": "Spondias mombin",
     "category": "ଫଳ",
+    "description": "a small, sour fruit often used in pickles and curries",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/hog_plum.webp",
     "odiaName": "ଅମ୍ବାଡ଼",
-    "profileDetails": "/fruits/hog_plum.json"
+    "descriptionOdia": "ଆଚାର ଓ ଖଟାରେ ବ୍ୟବହାର ହେଉଥିବା ଏକ ଖଟା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଜଳବାୟୁ ଥିବା ଅଞ୍ଚଳ",
+      "ମାଟି": "ସାଧାରଣ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ଖଟା",
+      "ରଙ୍ଗ": "ସବୁଜ ଏବଂ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଅମ୍ବାଡ଼ର ସ୍ୱାଦ ବହୁତ ଖଟା ହୋଇଥାଏ ।",
+        "ଏହାକୁ ତରକାରୀ ଓ ଚଟଣୀରେ ପକାଯାଏ ।",
+        "ମଝିରେ ଏକ ବଡ଼ ମଞ୍ଜି ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Star Fruit / Carambola",
     "scientificName": "Averrhoa carambola",
     "category": "ଫଳ",
+    "description": "a fruit that looks like a star when cut in slices",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/star_fruit.webp",
     "odiaName": "କରମଙ୍ଗା",
-    "profileDetails": "/fruits/star_fruit.json"
+    "descriptionOdia": "କାଟିଲେ ତାରା ପରି ଦେଖାଯାଉଥିବା ଏକ ଖଟାମିଠା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଓ କ୍ରାନ୍ତୀୟ ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ଦୋରସା ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ଖଟା ଓ ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ ଓ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କରମଙ୍ଗାକୁ କାଟିଲେ ଏହା ଆକାଶର ତାରା ପରି ଦେଖାଯାଏ ।",
+        "କଞ୍ଚା ଥିଲେ ଏହା ଖଟା ଲାଗେ ଓ ପାଚିଲେ ମିଠା ଲାଗେ ।",
+        "ଏଥିରେ ଭିଟାମିନ ସି ଭରି ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Palmyra Palm Fruit / Ice Apple",
     "scientificName": "Borassus flabellifer",
     "category": "ଫଳ",
+    "description": "a seasonal summer fruit containing jelly-like sweet seeds",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/palmyra_palm.webp",
     "odiaName": "ତାଳ",
-    "profileDetails": "/fruits/palmyra_palm.json"
+    "descriptionOdia": "ଖରାଦିନେ ମିଳୁଥିବା ଏକ ଗୋଲ୍ ଫଳ ଯାହା ଭିତରେ ବରଫ ପରି ମଞ୍ଜି ଥାଏ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଜଳବାୟୁ ଥିବା ଅଞ୍ଚଳ",
+      "ମାଟି": "ସମତଳ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଓ ବର୍ଷା ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ବାହାରେ କଳା ଏବଂ ଭିତରେ ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କଞ୍ଚା ତାଳସଜ ଖାଇବାକୁ ବରଫ ପରି ଥଣ୍ଡା ଓ ନରମ ଲାଗେ ।",
+        "ପାଚିଲା ତାଳରୁ ସୁଆଦିଆ ପିଠା ତିଆରି ହୁଏ ।",
+        "ତାଳ ଗଛ ନଡ଼ିଆ ଗଛ ଭଳି ବହୁତ ଡେଙ୍ଗା ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Tamarind",
     "scientificName": "Tamarindus indica",
     "category": "ଫଳ",
+    "description": "a brown pod-like fruit with a tangy and sour flavor",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/tamarind.webp",
     "odiaName": "ତେନ୍ତୁଳି",
-    "profileDetails": "/fruits/tamarind.json"
+    "descriptionOdia": "ଅତ୍ୟନ୍ତ ଖଟା ସ୍ୱାଦ ଥିବା ଏକ ଲମ୍ବା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଏବଂ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଗଭୀର ଦୋରସା କିମ୍ବା ଲାଲ୍ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଓ ବସନ୍ତ ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ଖଟା ଓ ସାମାନ୍ୟ ମିଠା",
+      "ରଙ୍ଗ": "ମାଟିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ତେନ୍ତୁଳି ନାଁ ଶୁଣିଲେ ପାଟିରୁ ଲାଳ ବୋହି ଆସେ ।",
+        "ଏହାକୁ ଡାଲମା ଓ ତରକାରୀରେ ଖଟା ସ୍ୱାଦ ପାଇଁ ପକାଯାଏ ।",
+        "ପିଲାମାନେ ପାଚିଲା ତେନ୍ତୁଳି ଖାଇବାକୁ ବହୁତ ଭଲ ପାଆନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Sugarcane",
     "scientificName": "Saccharum officinarum",
     "category": "ଫଳ",
+    "description": "a tall grass from which sugar is made",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/sugarcane.webp",
     "odiaName": "ଆଖୁ",
-    "profileDetails": "/fruits/sugarcane.json"
+    "descriptionOdia": "ମିଠା ରସରେ ଭରା ଏକ ଲମ୍ବା ଗଛ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଉଷ୍ମ ଓ ଆର୍ଦ୍ର ଅଞ୍ଚଳ",
+      "ମାଟି": "ପଟୁ ଓ ମଟାଳ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ବହୁତ ମିଠା",
+      "ରଙ୍ଗ": "ସବୁଜ କିମ୍ବା ବାଇଗଣୀ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆଖୁ ରସରୁ ଚିନି ଓ ଗୁଡ଼ ତିଆରି କରାଯାଏ ।",
+        "ଖରାଦିନେ ଆଖୁ ରସ ପିଇବାକୁ ବହୁତ ଶାନ୍ତି ଲାଗେ ।",
+        "ଲୋକମାନେ ଆଖୁକୁ ଦାନ୍ତରେ ଛଡ଼ାଇ ଖାଇବାକୁ ଭଲ ପାଆନ୍ତି ।"
+      ]
+    }
   },
   {
     "name": "Cashew Nut",
     "scientificName": "Anacardium occidentale",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "a kidney-shaped nut with a sweet and buttery taste",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/cashew.webp",
     "odiaName": "କାଜୁ",
-    "profileDetails": "/fruits/cashew.json"
+    "descriptionOdia": "ବକ୍ର ଆକାରର ଏକ ସ୍ୱାଦିଷ୍ଟ ଶୁଖିଲା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ସମୁଦ୍ର ଉପକୂଳ ଓ ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଲାଲ୍ ଏବଂ ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଗ୍ରୀଷ୍ମ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ଧଳା ବା ହାଲୁକା ହଳଦିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କାଜୁ ଗଛର ଫଳର ତଳ ଭାଗରେ ଏହି ମଞ୍ଜି ଲାଗିଥାଏ ।",
+        "କାଜୁକୁ ଭାଜି କରି ଖାଇବାକୁ ବହୁତ ସ୍ୱାଦିଷ୍ଟ ଲାଗେ ।",
+        "ମିଠା ଦ୍ରବ୍ୟରେ କାଜୁର ବ୍ୟବହାର କରାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Almond",
     "scientificName": "Prunus dulcis",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "a highly nutritious nut with a brown skin",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/almond.webp",
     "odiaName": "ପିସ୍ତା ବାଦାମ",
-    "profileDetails": "/fruits/almond.json"
+    "descriptionOdia": "ମସ୍ତିଷ୍କ ପାଇଁ ଲାଭଦାୟକ ଏକ ଶୁଖିଲା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ପାହାଡ଼ିଆ ଉର୍ବର ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ମାଟିଆ ଚୋପା ଏବଂ ଭିତର ଧଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସକାଳୁ ଭିଜା ବାଦାମ ଖାଇଲେ ସ୍ମରଣ ଶକ୍ତି ବଢ଼େ ।",
+        "ଏହା ଶରୀରକୁ ବହୁତ ବଳ ଯୋଗାଇଥାଏ ।",
+        "ଏହାର ବାହାରେ ଟାଣ ଖୋଳପା ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Peanut / Groundnut",
     "scientificName": "Arachis hypogaea",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "a popular nut that grows underground",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/peanut.webp",
     "odiaName": "ଚିନାବାଦାମ / ବାଦାମ",
-    "profileDetails": "/fruits/peanut.json"
+    "descriptionOdia": "ମାଟି ତଳେ ଫଳୁଥିବା ଏକ ଲୋକପ୍ରିୟ ବାଦାମ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଗରମ ଜଳବାୟୁ ଥିବା ସମତଳ ଅଞ୍ଚଳ",
+      "ମାଟି": "ହାଲୁକା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ଶୀତ ଋତୁ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ନାଲି ଏବଂ ହାଲୁକା ମାଟିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଚିନାବାଦାମ ଗଛରେ ନୁହେଁ, ମାଟି ତଳେ ଫଳିଥାଏ ।",
+        "ଲୋକମାନେ ଏହାକୁ ଭାଜି କିମ୍ବା ସିଝାଇ ଖାଆନ୍ତି ।",
+        "ବାଦାମରୁ ତେଲ ମଧ୍ୟ ବାହାର କରାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Dates",
     "scientificName": "Phoenix dactylifera",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "a sweet, dark brown fruit grown on date palms",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/dates.webp",
     "odiaName": "ଖଜୁରୀ",
-    "profileDetails": "/fruits/dates.json"
+    "descriptionOdia": "ଖଜୁରୀ ଗଛରେ ଫଳୁଥିବା ଏକ ଅତି ମିଠା ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ମରୁଭୂମି ଓ ଗରମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ମରୁଭୂମିର ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ବହୁତ ମିଠା",
+      "ରଙ୍ଗ": "ଗାଢ଼ ମାଟିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଖଜୁରୀ ଖାଇଲେ ରକ୍ତହୀନତା ଦୂର ହୁଏ ।",
+        "ଏଥିରେ ପ୍ରଚୁର ମାତ୍ରାରେ ଶକ୍ତି ଭରି ରହିଥାଏ ।",
+        "ଖଜୁରୀ ଗଛ ମଧ୍ୟ ତାଳ ଗଛ ପରି ଡେଙ୍ଗା ହୋଇଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Raisins",
     "scientificName": "Vitis vinifera (Dried)",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "dried grapes known for their sweetness",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/raisins.webp",
     "odiaName": "କିସମିସ",
-    "profileDetails": "/fruits/raisins.json"
+    "descriptionOdia": "ଅଙ୍ଗୁରକୁ ଶୁଖାଇ ପ୍ରସ୍ତୁତ କରାଯାଉଥିବା ଏକ ମିଠା ଶୁଷ୍କ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଅଙ୍ଗୁର ଚାଷ ହେଉଥିବା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଗୋଡ଼ିମିଶା ବାଲିଆ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା",
+      "ରଙ୍ଗ": "ହଳଦିଆ କିମ୍ବା କଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସତେଜ ଅଙ୍ଗୁରକୁ ଖରାରେ ଶୁଖାଇ କିସମିସ ତିଆରି କରାଯାଏ ।",
+        "ଏହାକୁ ପାଣିରେ ଭିଜାଇଲେ ପୁଣି ଫୁଲିଯାଏ ।",
+        "ଖିରି ଏବଂ ଅନ୍ୟାନ୍ୟ ମିଠା ଜିନିଷରେ କିସମିସ ପକାଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Walnut",
     "scientificName": "Juglans regia",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "a brain-shaped nut enclosed in a hard shell",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/walnut.webp",
     "odiaName": "ଆଖରୋଟ",
-    "profileDetails": "/fruits/walnut.json"
+    "descriptionOdia": "ମଣିଷର ମସ୍ତିଷ୍କ ଭଳି ଦେଖାଯାଉଥିବା ଏକ ଟାଣ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଥଣ୍ଡା ପାହାଡ଼ିଆ ଅଞ୍ଚଳ",
+      "ମାଟି": "ଥଣ୍ଡା ଅଞ୍ଚଳର ପଟୁ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ସାମାନ୍ୟ ମିଠା ଓ ତେଲିଆ",
+      "ରଙ୍ଗ": "ମାଟିଆ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆଖରୋଟର ଆକାର ଆମ ମସ୍ତିଷ୍କ ସହିତ ମିଶିଥାଏ ।",
+        "ଏହାର ଖୋଳପା ବହୁତ କଠିନ ହୋଇଥାଏ ।",
+        "ଏହାକୁ ଭାଙ୍ଗି ଏହାର ମଞ୍ଜିକୁ ଖିଆଯାଏ ।"
+      ]
+    }
   },
   {
     "name": "Pistachio",
     "scientificName": "Pistacia vera",
     "category": "ଶୁଷ୍କ ଫଳ",
+    "description": "a small green nut enclosed in a split shell",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/pistachio.webp",
     "odiaName": "ପେସ୍ତା",
-    "profileDetails": "/fruits/pistachio.json"
+    "descriptionOdia": "ହଳଦିଆ ଖୋଳପା ଭିତରେ ଥିବା ଏକ ସବୁଜ ରଙ୍ଗର ବାଦାମ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "ଶୁଖିଲା ଏବଂ ଥଣ୍ଡା ଅଞ୍ଚଳ",
+      "ମାଟି": "ଶୁଖିଲା ଟାଣ ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "ମିଠା ଏବଂ ଲୁଣିଆ",
+      "ରଙ୍ଗ": "ସବୁଜ ରଙ୍ଗର ମଞ୍ଜି",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପେସ୍ତା ସାଧାରଣତଃ ସବୁଜ ରଙ୍ଗର ହୋଇଥାଏ ।",
+        "ଆଇସକ୍ରିମ ଏବଂ ମିଠାରେ ପେସ୍ତା ପକାଯାଏ ।",
+        "ଏହାର ଖୋଳପା ଅଧା ଖୋଲା ଅବସ୍ଥାରେ ରହିଥାଏ ।"
+      ]
+    }
   },
   {
     "name": "Betel Nut",
     "scientificName": "Areca catechu",
     "category": "ଫଳ",
+    "description": "a hard seed typically chewed with betel leaves",
     "image": "https://imsbg.github.io/fruits-and-vegetables/images/fruits/betel_nut.webp",
     "odiaName": "ଗୁଆ",
-    "profileDetails": "/fruits/betel_nut.json"
+    "descriptionOdia": "ପାନ ସହିତ ଖିଆଯାଉଥିବା ଏକ ଟାଣ ଫଳ",
+    "details": {
+      "ଉତ୍ପତ୍ତି_ସ୍ଥାନ": "କ୍ରାନ୍ତୀୟ ଓ ଉଷ୍ମ ଅଞ୍ଚଳ",
+      "ମାଟି": "ମାଟିଆ ଏବଂ ଦୋରସା ମାଟି",
+      "ଋତୁ": "ବର୍ଷ ତମାମ",
+      "ସ୍ୱାଦ": "କଷା",
+      "ରଙ୍ଗ": "ସବୁଜ ଏବଂ ପାଚିଲେ କମଳା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଲୋକମାନେ ଗୁଆକୁ ପାନ ସହିତ ଖାଇବାକୁ ପସନ୍ଦ କରନ୍ତି ।",
+        "ପୂଜା କାର୍ଯ୍ୟରେ ମଧ୍ୟ ଗୁଆର ବହୁଳ ବ୍ୟବହାର ହୁଏ ।",
+        "ଗୁଆ ଗଛ ଦେଖିବାକୁ ବହୁତ ସରୁ ଏବଂ ଡେଙ୍ଗା ଅଟେ ।"
+      ]
+    }
   }
 ]
