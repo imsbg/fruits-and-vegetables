@@ -1,6 +1,6 @@
 [
   {
-    "version": 2,
+    "version": 3,
     "name": "Mango",
     "scientificName": "Mangifera indica",
     "category": "ଫଳ",
@@ -358,7 +358,7 @@
     }
   },
   {
-    "name": "Bluekberry",
+    "name": "Blueberry",
     "scientificName": "Syzygium cumini",
     "category": "ଫଳ",
     "description": "a small, dark purple fruit that leaves a purple color on the tongue",
